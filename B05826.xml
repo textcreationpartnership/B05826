@@ -1,0 +1,801 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practical discourse of the sin against the Holy Ghost: shewing plainly, I. What it is. II. How any person may certainly know, whether he has been guilty of it. : Designed to bring incouragement to the faithful penitent, tranquility of mind to the obedient, joys to them that love; and the returning sinner from desperation.</title>
+            <author>Sharp, John, 1645-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05826</idno>
+            <idno type="STC">Wing S3007AA</idno>
+            <idno type="STC">ESTC R233296</idno>
+            <idno type="EEBO-CITATION">49520988</idno>
+            <idno type="OCLC">ocm 49520988</idno>
+            <idno type="VID">174216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174216)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2676:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practical discourse of the sin against the Holy Ghost: shewing plainly, I. What it is. II. How any person may certainly know, whether he has been guilty of it. : Designed to bring incouragement to the faithful penitent, tranquility of mind to the obedient, joys to them that love; and the returning sinner from desperation.</title>
+                  <author>Sharp, John, 1645-1714.</author>
+               </titleStmt>
+               <extent>[6], 86, [2] p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Henry Bonwicke ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Dr. Sharpe by Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Spirit.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:174216:1"/>
+            <p>
+               <figure>
+                  <head>Printed for H. Bonwick at the Red Lion in S<hi rend="sup">t</hi>. P. Ch. yard. I. Savage ſculp.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174216:1"/>
+            <p>A Practical DISCOURSE OF THE SIN againſt the <hi>Holy Ghoſt:</hi> Shewing Plainly,
+<list>
+                  <item>I. What it is.</item>
+                  <item>II. How any Perſon may certainly know, whether he has been Guilty of it.</item>
+               </list>
+            </p>
+            <p>DESIGNED To bring Incouragement to the Faithful Pe<g ref="char:EOLhyphen"/>nitent, Tranquility of Mind to the Obe<g ref="char:EOLhyphen"/>dient, Joys to them that Love; and the Returning Sinner from Deſperation.</p>
+            <q>
+               <p>Nihil ardet in Inferno niſi propria Voluntas.</p>
+               <bibl>S. <hi>Bernard.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Henry Bonwicke,</hi> at the <hi>Red-Lyon</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> MDCXCV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174216:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174216:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174216:3"/>
+            <pb facs="tcp:174216:3"/>
+            <head>THE Author's DEDICATION AND PRAYER.</head>
+            <opener>
+               <salute>
+                  <hi>Bleſſed</hi> TRINITY,</salute>
+            </opener>
+            <p>FRom an Affectionate and willing Spirit, from a Heart deſiring to pleaſe Thee, and to be in all things right toward Thee; I humbly Dedicate this Diſcourſe to the Uſes of thy <hi>Glory, Love,</hi> and <hi>Obedience;</hi> begging this on<g ref="char:EOLhyphen"/>ly for my ſelf, That I may not Preach to others, and be my ſelf a Caſt-away: <q>For thy Faith<g ref="char:EOLhyphen"/>ful People, begging Pardon and Peace, That they may be cleanſed from all their Sins, and ſerve Thee with a quiet Mind; through Jeſus Chriſt our Lord.</q> 
+            </p>
+            <closer>Amen, Amen.</closer>
+         </div>
+         <div type="quotation">
+            <pb facs="tcp:174216:4"/>
+            <q>
+               <bibl>
+                  <hi>St. MATTH. xij. 31, 32.</hi>
+               </bibl>
+               <p>Wherefore I ſay unto you, All manner of Sin and Blaſphemy ſhall be forgiven unto men: but the Blaſphemy againſt the Holy Ghoſt, ſhall not be forgiven unto men.</p>
+               <p>And whoſoever ſpeaketh a word againſt the Son of man, it ſhall be forgiven him: but whoſoever ſpeaketh againſt the Holy Ghoſt, it ſhall not be for<g ref="char:EOLhyphen"/>given him.</p>
+            </q>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:174216:4"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>Sect I.</hi> THE Occaſion of this Diſcourſe.</item>
+               <item>
+                  <hi>Sect. II.</hi> What the Sin, or Blaſ<g ref="char:EOLhyphen"/>phemy againſt the Holy Ghoſt is.</item>
+               <item>
+                  <hi>Sect. III.</hi> The Blaſphemy of the Phariſees, un<g ref="char:EOLhyphen"/>pardonable no longer than willfully and impe<g ref="char:EOLhyphen"/>nitently continued in.</item>
+               <item>
+                  <hi>Sect. IV.</hi> How any Perſon may aſſuredly know, whether he has been guilty of the Sin againſt the Holy Ghoſt.</item>
+               <item>
+                  <hi>Sect. V.</hi> The great Likelihood that the Chri<g ref="char:EOLhyphen"/>ſtian Reader has not yet been Guilty of this Sin.</item>
+               <item>
+                  <hi>Sect. VI.</hi> The <hi>Firſt</hi> Practical Inference, or In<g ref="char:EOLhyphen"/>ſtance of Application; from the Conſidera<g ref="char:EOLhyphen"/>tion of the Nature and Meaning of the Sin againſt the Holy Ghoſt, <hi>viz.</hi> That 'tis Mat<g ref="char:EOLhyphen"/>ter of Incouragement for the faithful Peni<g ref="char:EOLhyphen"/>tent to go on chearfully, but yet very ſincerely in his Repentance.</item>
+               <item>
+                  <hi>Sect. VII.</hi> The <hi>Second</hi> Practical Inference, from the Conſideration of the Nature and Meaning of this Sin, <hi>viz.</hi> That 'tis juſt Matter of Reproof and Terrour to the Care<g ref="char:EOLhyphen"/>leſs, and the Prophane Perſon, that goes on
+<pb facs="tcp:174216:5"/>any known Sin and takes no Care to come in, and Return to God by Repentance; and to la<g ref="char:EOLhyphen"/>bour for the Vertue that is contrary to his Sin, and live in it.</item>
+               <item>
+                  <hi>Sect. VIII.</hi> The <hi>Third</hi> Practical Inference, from the Conſideration of the Nature and Meaning of this Sin: It is Matter of Con<g ref="char:EOLhyphen"/>ſolation to all Sincerely, Humble, Holy, De<g ref="char:EOLhyphen"/>vout and Obedient Perſons, to incourage them to perſevere and go on a little longer, with a Holy Joy, and with a Religious Peace.</item>
+            </list>
+            <list>
+               <head>The CLOSE.</head>
+               <item>
+                  <hi>Sect IX.</hi> Two Things neceſſary to the Holding out in a Chriſtian Courſe; which you (Chri<g ref="char:EOLhyphen"/>ſtian Reader) that are aſſured you have not yet committed the unpardonable Sin, ſhould by all Means preſently reſolve upon; which if you did, you would be very ſafe and happy.</item>
+               <item>
+                  <hi>Sect. X.</hi> Three Aſpirations; or, Emotions of the Soul, that being joyfully Apprehenſive it has not Committed this Sin, is deſirous hencefor<g ref="char:EOLhyphen"/>ward to pleaſe God in a Life of faithful Obedience, and Penitential Love.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:174216:5"/>
+            <head>A <hi>Practical Diſcourſe</hi> OF THE <hi>Sin againſt the Holy Ghoſt.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. I.</hi> The Occaſion of this Diſcourſe.</head>
+               <p>BEfore I come to the more par<g ref="char:EOLhyphen"/>ticular Enquiries, in ſhewing what the <hi>Sin againſt the Holy Ghoſt</hi> is, and the ſeveral Uſes, which I would draw from the Conſideration of the Nature, and the Meaning of this <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſ<g ref="char:EOLhyphen"/>phemy,</hi> and leave them upon the Affe<g ref="char:EOLhyphen"/>ctionate Thoughts of thoſe who have
+<pb n="2" facs="tcp:174216:6"/>not yet quitted all their future Hopes and Expectations; nor deſire to do ſo: I will ſtop a little to mention ſome of the <hi>Reaſons,</hi> and charitable <hi>Deſigna<g ref="char:EOLhyphen"/>tions</hi> and <hi>Intentions</hi> of my Publiſhing a Diſcourſe on this Subject.</p>
+               <p>I am perſwaded (and perhaps I have obſerv'd) That there are ſome devout Chriſtians, who, for want of a Right and True Account, and a full Knowledge of what <hi>this Sin</hi> is, have been <hi>diſcouraged</hi> from a Chriſtian Courſe; or elſe have <hi>gone on heavily</hi> in their Devotions and Obedience; and in accompliſhing (with Sincerity) thoſe few Duties to God and Man, which our Aſcended Saviour was pleas'd to leave us in Charge, when he went away; Fearing that They have been Guilty of <hi>this Sin:</hi> And therefore that all that they do, or ſuffer, is to no Purpoſe.</p>
+               <p>And, tho' they truly aim at Im<g ref="char:EOLhyphen"/>mortality; at a Bleſt and Joyful Re<g ref="char:EOLhyphen"/>ſurrection; and at the Divine Glory, Love and Obedience; and from an affectionate and a willing Spirit, and
+<pb n="3" facs="tcp:174216:6"/>a Heart right towards God, Deſire nothing ſo much as to pleaſe him; and to be train'd up, and fitted, and trimm'd and diſciplin'd for an Admittance to a New World of Bleſſed Spirits; and to come away and ſpend a Rapturous Eternity at the Feet of Jeſus; yet all this while are afraid, they may have commit<g ref="char:EOLhyphen"/>ted <hi>this Sin.</hi>
+               </p>
+               <p>And this <hi>cools</hi> their Love of God, Hinders the <hi>Livelineſs</hi> and the <hi>Chearfulneſs</hi> of their Duties, and keeps them off from a Reli<g ref="char:EOLhyphen"/>gious Peace; and from the Proſe<g ref="char:EOLhyphen"/>cution of ſome Chriſtian Actions, which they would otherwiſe chear<g ref="char:EOLhyphen"/>fully Perform.</p>
+               <p>For their Sake therefore, in the firſt Place, and to invite them to perſevere with a <hi>Holy Conſtancy and Joy</hi> in the Commands of their A<g ref="char:EOLhyphen"/>ſcended Saviour, I will ſhew plainly and truly what <hi>this Sin</hi> is.</p>
+               <p>A <hi>Second</hi> Sort of Men there are, That by the Prevalency and Power of a Strong Temptation, have made
+<pb n="4" facs="tcp:174216:7"/>ſome diſmal Receſſions from their Baptiſmal Innocence; and are Sen<g ref="char:EOLhyphen"/>ſible that they have faln into a Sin, and have diſpleas'd their God.</p>
+               <p>But they would quickly and hum<g ref="char:EOLhyphen"/>bly return to their offended Father, with the Penitent Prodigal, were they not <hi>afraid</hi> they had been guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy</hi> againſt the Holy Ghoſt: And for this Rea<g ref="char:EOLhyphen"/>ſon they are <hi>diſcourag'd</hi> in their <hi>Re<g ref="char:EOLhyphen"/>pentances,</hi> and their <hi>Return</hi> to the Ways of God; or at leaſt go on very heavily in them; with no Joy or Chearfulneſs, or holy Purpoſes and Reſolutions: Which they ſay, they would <hi>Quickly,</hi> and <hi>Thankfully</hi> and <hi>Sincerely</hi> do, were they ſure they had not been Guilty of <hi>this Sin.</hi> For their ſakes alſo, will I plainly ſhew what 'tis.</p>
+               <p>A <hi>Third</hi> Sort I find there are, that have been very great Sinners; Have long liv'd in a State of great Inconſideration, and Careleſneſs; Pro<g ref="char:EOLhyphen"/>phaneneſs and Neglect of the Soul and Immortality. And <hi>they</hi> conclude,
+<pb n="5" facs="tcp:174216:7"/>That among ſo great a Heap and Conjugation of Sins, which they have committed, 'tis ten to one, but they have been guilty of <hi>this</hi> too: And therefore, That 'tis to no man<g ref="char:EOLhyphen"/>ner of Purpoſe to return and ſeek a Reconciliation with their God; For their <hi>day</hi> (they think) is <hi>over:</hi> And if they ſhould return to the Ways of God, and chooſe better; and live the Holy Life, which is much the eaſier, and the ſweeter Life of the two, yet they ſuppoſe all's in Vain; They have <hi>committed this Sin;</hi> and the <hi>Door</hi> of Mercy is <hi>ſhut</hi> againſt them: And that now they had e'en as good let all run againſt the Rocks, and let alone the Soul, and take no more Care about it; But take their fill of Senſuality and Wickedneſs, and lie down in a State of Inconſideration and Pro<g ref="char:EOLhyphen"/>phaneneſs.</p>
+               <p>And for the Sake of theſe alſo, will I plainly, truly, and clearly ſhew, what <hi>this Sin</hi> is.</p>
+               <pb n="6" facs="tcp:174216:8"/>
+               <p> That ſo the <hi>one Sort</hi> may ſee in<g ref="char:EOLhyphen"/>finite Cauſe to <hi>return</hi> to their offen<g ref="char:EOLhyphen"/>ded Father quickly: And tho' it be with Fear and Trembling, yet may do it alſo, with a holy Hope, great Encouragements, and a Religious Chearfulneſs too; provided, it be with a <hi>Preſent, Vniverſal,</hi> and <hi>Permanent</hi> Change.</p>
+               <p>And the <hi>other</hi> Sort, Namely, the Perſon of a ſincere Probity and Sancti<g ref="char:EOLhyphen"/>ty of Life, may go on in a Courſe of Faith and Devotion, Piety and Cha<g ref="char:EOLhyphen"/>rity, Divine Love and Obedience, with a <hi>Holy Joy</hi> and <hi>a Religious Peace.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <pb n="7" facs="tcp:174216:8"/>
+               <head>
+                  <hi>SECT. II.</hi> What the Blaſphemy againſt the Holy Ghoſt is.</head>
+               <p>THat I may make the preſent Diſcourſe as <hi>Satisfactory</hi> as I can, to every Reader; and as <hi>
+                     <g ref="char:V">Ʋ</g>ſeful</hi> as I can for the Deſigns and Pur<g ref="char:EOLhyphen"/>poſes, and Needs and Deſires, of every Chriſtian; That the Sinner may be encouraged and invited to return to his God, and his own trueſt Intereſt, by a <hi>Speedy,</hi> a <hi>Sin<g ref="char:EOLhyphen"/>cere,</hi> and a <hi>Perſevering Repentance;</hi> and all may be encouraged, and en<g ref="char:EOLhyphen"/>deared to go on chearfully in a Re<g ref="char:EOLhyphen"/>ligious Courſe, <hi>in the Ways of Plea<g ref="char:EOLhyphen"/>ſantneſs, and the Paths of Peace;</hi> (<hi>Prov.</hi> 3.17.) I will plainly inſiſt on theſe three Things:</p>
+               <list>
+                  <pb n="8" facs="tcp:174216:9"/>
+                  <label>I.</label>
+                  <item>
+                     <hi>Firſt,</hi> Shew what <hi>this Sin</hi> is.</item>
+                  <label>II.</label>
+                  <item>
+                     <hi>Secondly,</hi> Give a Rule how any Per<g ref="char:EOLhyphen"/>ſon may aſſuredly know, whe<g ref="char:EOLhyphen"/>ther he has been Guilty <hi>of it</hi> or not.</item>
+                  <label>III.</label>
+                  <item>
+                     <hi>Thirdly,</hi> Shew the very great Like<g ref="char:EOLhyphen"/>lihood, that you (Chriſtian Rea<g ref="char:EOLhyphen"/>der) have not yet been Guilty of <hi>this Sin.</hi>
+                  </item>
+               </list>
+               <p>From all which three Particulars, I ſhall draw three Practical Inferences, or Inſtances of Application.</p>
+               <div type="application">
+                  <head>
+                     <hi>1.</hi> Shew, What this Sin is.</head>
+                  <p>The Sin, or <hi>Blaſphemy againſt the Holy Ghost,</hi> was (as appears in this Chapter, St. <hi>Matth.</hi> 12.) the Sin of the Phariſees; and in ſhort, 'twas this:</p>
+                  <pb n="9" facs="tcp:174216:9"/>
+                  <p> 
+                     <hi>They Blaſphem'd the Holy Ghost,</hi> in <hi>affirming, That thoſe Miracles which the Holy Jeſus wrought by the Power of the Holy Ghoſt, were done by the Power of the Devil: And conſe<g ref="char:EOLhyphen"/>quently deny'd him who did them, to be the Christ.</hi>
+                  </p>
+                  <p>And the Heinouſneſs of it con<g ref="char:EOLhyphen"/>ſiſted in This: By theſe Miracles which he wrought (by the Power of the Holy Ghoſt) he deſign'd to convince them that he was the Meſſias; And would by this Light, manifeſt to them plainly, that he acted by the Power of the <hi>Holy Spirit</hi> of God: He charitably de<g ref="char:EOLhyphen"/>ſigned thoſe very Miracles which they reproachfully imputed to the Devil, to be a convincing Teſti<g ref="char:EOLhyphen"/>mony from God, that he muſt be the Meſſias, the Chriſt, the Saviour of the World.</p>
+                  <p>No; they would not be perſwa<g ref="char:EOLhyphen"/>ded; would not come in to his Faith, and his Love, and his Obedience, but would wilfully reſiſt and oppoſe the Power of his Doctrine, and his
+<pb n="10" facs="tcp:174216:10"/>Miracles; The convincing <hi>Light</hi> of which, plainly and clearly mani<g ref="char:EOLhyphen"/>feſted, that he acted by the Power of God.</p>
+                  <p>And rather than they would ac<g ref="char:EOLhyphen"/>knowledge them to be done by the Power of the <hi>Holy Ghoſt,</hi> they affirm'd, That he did them, by the Power of the Devil, <hi>v.</hi> 24.</p>
+                  <p>Upon this, Chriſt to convince them, is pleaſed to tell them, That the Miracle of Caſting out Devils (which he had wrought juſt before) could not be done by the Power of the Devil; <hi>For a Kingdom divided againſt its ſelf could not ſtand,</hi> v. 25. And therefore 'twas not likely that Satan ſhould caſt out Satan: And if Satan could not, or would not caſt out Satan, then ſurely it muſt be by the Power of the <hi>Holy Spirit</hi> of God, that he caſt out Devils, and wrought Miracles.</p>
+                  <p>And if ſo, how could they chooſe, when they ſaw the Miracles that he did, but be convinc'd that he acted by the Power of God? And conſe<g ref="char:EOLhyphen"/>quently,
+<pb n="11" facs="tcp:174216:10"/>how could they Reſiſt and Oppoſe, Deny and Diſown him to be the Chriſt, the Meſſias, the Sa<g ref="char:EOLhyphen"/>viour of the World.</p>
+                  <p>'Twas all as one: They would not be convinced by the holy Do<g ref="char:EOLhyphen"/>ctrines which he Taught, by the Miracles that he wrought, and Won<g ref="char:EOLhyphen"/>ders that he did: And rather than believe on him, and become Wiſe and Happy, they obſtinately affirm'd, That what he did by the Finger of God, and the <hi>Power of the Holy Ghoſt,</hi> was done by the <hi>Power of</hi> the <hi>accurſed Spirits</hi> of Darkneſs.</p>
+                  <p>Now, this was not only a Great <hi>Blaſphemy</hi> indeed againſt the <hi>Holy Ghost;</hi> But, 'twas a wilfull ſhut<g ref="char:EOLhyphen"/>ting their Eyes againſt the Light: Againſt the <hi>Light</hi> (I ſay it again) of that Doctrine, and thoſe Mira<g ref="char:EOLhyphen"/>cles, which were done on Purpoſe to <hi>Convince</hi> them that he was the Chriſt; whom notwithſtanding they Deny'd and Diſown'd, Reſiſted and Oppos'd.</p>
+                  <pb n="12" facs="tcp:174216:11"/>
+                  <p> Upon this, Chriſt tells them, That if they continued in this <hi>Blaſphemy,</hi> and would obſtinately go on, to im<g ref="char:EOLhyphen"/>pute thoſe Miracles, to the Devil, which were done by the Power of the <hi>Holy Ghoſt,</hi> and would not be Convinced and come in, and Re<g ref="char:EOLhyphen"/>ceive and Believe on the Lord of Glory, but deny and oppoſe him, and maliciouſly and with a wilful Blindneſs, hold out againſt the vi<g ref="char:EOLhyphen"/>ſible Work of God; That <hi>this</hi> muſt needs be to them that <hi>continue</hi> in it, <hi>unpardonable.</hi>
+                  </p>
+                  <p>And well indeed might it be un<g ref="char:EOLhyphen"/>pardonable, when the Apoſtle ſays, <hi>Act.</hi> 4.12. <hi>There is none other Name under Heaven given among men where<g ref="char:EOLhyphen"/>by we muſt be ſaved.</hi> That his <hi>Name</hi> and <hi>Perſon;</hi> His <hi>Revelation,</hi> and his <hi>Love;</hi> His <hi>Meſſage,</hi> and his <hi>Deſigns;</hi> His <hi>Doctrine,</hi> and his <hi>Miracles,</hi> ſhould be <hi>Denied</hi> and <hi>Diſowned, Oppoſed</hi> and <hi>Rejected,</hi> and their Eyes ob<g ref="char:EOLhyphen"/>ſtinately ſhut againſt all the convin<g ref="char:EOLhyphen"/>cing Arguments of his Doctrine and his Miracles, that he was the Saviour of the World.</p>
+                  <pb n="13" facs="tcp:174216:11"/>
+                  <p> But here may be one Material, and Important Queſtion ask'd.</p>
+                  <p>How comes it to paſs, that 'tis ſaid, in the Text, <hi>Whoſoever ſpeaketh againſt the Son of Man, it ſhall be forgiven him; But whoſoever ſpeaketh againſt the Holy Ghoſt, it ſhall not be forgiven:</hi> How comes it to paſs that the Speaking againſt <hi>Chriſt,</hi> ſhould be more <hi>Pardonable,</hi> than the Speaking againſt the <hi>Holy Ghoſt?</hi>
+                  </p>
+                  <p>To this, I Anſwer.</p>
+                  <p>To ſpeak againſt the Son of Man, <hi>i. e.</hi> againſt Chriſt, only before he was manifeſted to be the Meſſias, by the <hi>holy Spirit</hi> of God, and the con<g ref="char:EOLhyphen"/>vincing Miracles which he did: This might be a <hi>Sin of Ignorance,</hi> and there<g ref="char:EOLhyphen"/>fore <hi>Pardonable</hi> upon a general <hi>Re<g ref="char:EOLhyphen"/>pentance.</hi>
+                  </p>
+                  <p>But to ſpeak againſt the <hi>Holy Ghoſt, i. e.</hi> to reſiſt the holy Spirit of God, which manifeſtly appear'd in the Mi<g ref="char:EOLhyphen"/>racles which Chriſt wrought on Pur<g ref="char:EOLhyphen"/>poſe to convince them, this could be no <hi>excuſable Ignorance;</hi> but muſt be a <hi>willful Blindneſs.</hi> Nay, to impute
+<pb n="14" facs="tcp:174216:12"/>them to the <hi>Devil,</hi> on Purpoſe, be<g ref="char:EOLhyphen"/>cauſe they would not be convinc'd by them, to come in to Chriſt, and re<g ref="char:EOLhyphen"/>ceive and own him: Surely, ſuch an Oppoſition and Reſiſtance; ſuch a contradicting and croſſing his gra<g ref="char:EOLhyphen"/>cious Ends, and merciful Deſignations to them, could be no other than an obſtinate, willful Blindneſs, and a ſhut<g ref="char:EOLhyphen"/>ting their Eyes againſt the Light: And therefore (if continu'd in) could not but be <hi>
+                        <g ref="char:V">Ʋ</g>npardonable.</hi>
+                  </p>
+                  <p>And that's the Difference between ſpeaking barely againſt the Son of Man, <hi>before he was manifeſted</hi> to be ſo, by Miracles, and by the Power of the Holy Ghoſt; and the Speaking againſt him, <hi>after he was manifeſted</hi> to be ſo, by Miracles, and by the Power of the Holy Ghoſt.</p>
+                  <p>The one (as I ſaid) might be a pardonable Ignorance; But the other muſt be an inexcuſable willful Blind<g ref="char:EOLhyphen"/>neſs.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <pb n="15" facs="tcp:174216:12"/>
+               <head>
+                  <hi>SECT. III.</hi> The Blaſphemy of the Phariſees, <g ref="char:V">Ʋ</g>npardonable no longer than wilfully and Impenitently con<g ref="char:EOLhyphen"/>tinued in.</head>
+               <p>BUT now conſider, Chriſtian; neither was the Blaſphemy of the Phariſees an <hi>unpardonable Sin,</hi> any longer than 'twas wilfully and impeni<g ref="char:EOLhyphen"/>tently continued in.</p>
+               <p>This I prove from their very Caſe here, who were guilty of this Sin.</p>
+               <p>None could deny our Lord more, or oppoſe him more than his very Cru<g ref="char:EOLhyphen"/>cifiers: yet even of them his very words are to God; <hi>Father, forgive them;</hi> That is, Deny them not the means of Forgiveneſs, which is Re<g ref="char:EOLhyphen"/>pentance: and deny them not For<g ref="char:EOLhyphen"/>giveneſs, if they ſhall Return and
+<pb n="16" facs="tcp:174216:13"/>Repent. And no doubt Chriſt was heard, in all that he pray'd for.</p>
+               <p>So that even they that at firſt re<g ref="char:EOLhyphen"/>ſiſted and oppoſed Chriſt, if after<g ref="char:EOLhyphen"/>wards they receiv'd and acknowledg'd him, by the convincing Conſidera<g ref="char:EOLhyphen"/>tions of his Doctrine and his Miracles; and with a ſincere and humble Con<g ref="char:EOLhyphen"/>formity of Heart and Life, to his Faith and Doctrine, laid hold on God's Mercy in Chriſt, even to theſe, Pardon and Remiſſion is not deny'd by the Goſpel.</p>
+               <p>Something of an Example of this, we have in St. <hi>Peter,</hi> in that ſhame<g ref="char:EOLhyphen"/>ful, and wretched, and diſmal fall of his, in <hi>denying</hi> our Saviour. Here was no Ignorance; for he knew him, and own'd him to be the Meſſias, or the Chriſt.</p>
+               <p>But yet being prevail'd upon by a ſudden Fear; He deny'd him: and not only deny'd the Lord that bought him, three Times, but ſwore him away too. St. <hi>Matt.</hi> 26.74.</p>
+               <p>Here was a diſowning and denying of him indeed; and That too, after
+<pb n="17" facs="tcp:174216:13"/>he had been convinced, that he was the Meſſias, by the Power and Influ<g ref="char:EOLhyphen"/>ence of the Holy Ghoſt; and had up<g ref="char:EOLhyphen"/>on That, receiv'd him, and acknow<g ref="char:EOLhyphen"/>ledg'd him; and own'd him: A De<g ref="char:EOLhyphen"/>nial of them therefore, againſt his own <hi>Light, Knowledge</hi> and <hi>Convi<g ref="char:EOLhyphen"/>ction.</hi>
+               </p>
+               <p>And what, (you'll ſay) was not this a Sin againſt the <hi>Holy Ghoſt?</hi>
+               </p>
+               <p>To this I Anſwer:</p>
+               <p>Had he obſtinately perſiſted in it; wilfully continued in it; and liv'd and dy'd in it; it had been the <hi>Sin againſt the Holy Ghoſt.</hi>
+               </p>
+               <p>But in St. <hi>Peter</hi>'s Caſe, there are always <hi>three Things</hi> very Conſide<g ref="char:EOLhyphen"/>rable.</p>
+               <p>Firſt, <hi>'Twas by a ſudden Fear,</hi> (a ſudden Surprize of That Paſſion) that he fell.</p>
+               <p>Secondly, <hi>The Quickneſs and Bitter<g ref="char:EOLhyphen"/>neſs of his Repentance.</hi> His Maſter look'd about upon him, and He con<g ref="char:EOLhyphen"/>ſidered what he had done; and re<g ref="char:EOLhyphen"/>call'd himſelf, and went out and wept Bitterly.</p>
+               <pb n="18" facs="tcp:174216:14"/>
+               <p> Thirdly, <hi>What was moſt conſiderable; The truth of his Repentance, appear'd by the Truth, and Perſeverance of his Reformation:</hi> For, no Fears could af<g ref="char:EOLhyphen"/>terward any more prevail upon him; For he had the Courage to die for him, whom he had before deny'd.</p>
+               <p>Theſe were three Things that were infinitely Conſiderable; And here (Dear Chriſtian) give me leave to ſtop a little, to bring them home to your own Caſe, even yours in parti<g ref="char:EOLhyphen"/>cular.</p>
+               <p>Perhaps, with St. <hi>Peter,</hi> thou haſt faln; and faln too, <hi>Knowingly</hi> and <hi>Wittingly;</hi> againſt <hi>Knowledge, Light</hi> and <hi>Conviction:</hi> If ſo, Conſider what he did, and go, do thou likewiſe; and, like him, do it <hi>Quickly, Sincerely</hi> and <hi>Perſeveringly,</hi> and you ſhall not fail of Mercy.</p>
+               <p>Perhaps a ſudden Fear, or a ſudden Paſſion, or a ſudden Surprize has be<g ref="char:EOLhyphen"/>tray'd thee to a Sin: Nay, perhaps 'thas not only been ſudden, but <hi>deli<g ref="char:EOLhyphen"/>berate;</hi> with open Eyes, and a full Conſent of the Will: However, do
+<pb n="19" facs="tcp:174216:14"/>thou as he did: Return to thy offen<g ref="char:EOLhyphen"/>ded Saviour with Penitential Sorrows; By Faith lay hold on God's Mercies in him; Shew him the <hi>Truth of thy Repentance,</hi> by the <hi>Sincerity of thy Reformation;</hi> Crown <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perfect thy Repentance, by <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to obtain the Contrary Virtue, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Living in it:</hi> But withall, do it <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> as he did, and <hi>perſevere ſincere<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> too; and doubt not of the Mercies of Eternity.</p>
+               <p>
+                  <hi>He did it Quickly;</hi> He did not ſtay till his Death-bed fill'd him with va<g ref="char:EOLhyphen"/>riety of Diſtractions, Pains and Ago<g ref="char:EOLhyphen"/>nies, and unfitted him for it: He did not ſtay till the worſt of his days, thoſe which lay upon his hands and were good for Nothing: He did not keep thoſe for God, which he knew not what to do with himſelf; but He did it Quickly.</p>
+               <p>He did it <hi>Sincerely,</hi> next: As ap<g ref="char:EOLhyphen"/>peared by the Shower of Peniten<g ref="char:EOLhyphen"/>tial Tears; which could not have dropt ſo ſoon, had he not been in good Earneſt with his deareſt Lord; and had they not proceeded from a
+<pb n="18" facs="tcp:174216:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:174216:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:174216:16"/>heart ſwollen equally with Grief and Love. And,</p>
+               <p>Laſt of all he did it <hi>Perſeveringly;</hi> And in this Reſpect, go and do thou likewiſe: Shew him thy Love in the ſincere <hi>Permanency</hi> of thy Reforma<g ref="char:EOLhyphen"/>tion as he did: who having thrice following, deny'd him, did in a little time after ſay to him thrice follow<g ref="char:EOLhyphen"/>ing theſe Affectionate words (and made them good too) <hi>Lord, thou knoweſt that I love thee,</hi> St. <hi>Joh.</hi> 21.15, 16, 17.</p>
+               <p>Haſt thou faln? Why, oh why wilt thou for any <hi>Hopes</hi> or <hi>Expectations;</hi> Any <hi>Fears</hi> or <hi>Deſires,</hi> any <hi>Delights</hi> or <hi>Advantanges,</hi> continue a day longer in thy Sin?</p>
+               <p>Do but look yonder in a holy Me<g ref="char:EOLhyphen"/>ditation, to that Lovely Futurity which ſo many wiſe Men have been content to live, and content to die for; and then ſee if you can be the Perſon, that can think fit to venture ſo much for ſo little?</p>
+               <p>Look, in a quick and a piercing Thought, Look yonder, to <hi>what eye
+<pb n="21" facs="tcp:174216:16"/>has not ſeen, nor ear heard, nor the Heart of man conceiv'd;</hi> and think then whe<g ref="char:EOLhyphen"/>ther a wiſe Man ſhould be able to find it in his Heart, to venture all this for ſome unſatisfactory and diſhonourable Iniquity.</p>
+               <p>Once more do but raiſe your Medi<g ref="char:EOLhyphen"/>tations (Dear Chriſtian) to the lovely Regions of beatified Spirits; Regions which coſt thy Saviour an Agony and a Bloody Sweat, a Crucifixion and Death it's ſelf, to purchace you the Hopeful Poſſibility of them; and then ſee in That Thought if you can alway be content they ſhould <hi>coſt you No<g ref="char:EOLhyphen"/>thing?</hi> Nothing of Penitential Sor<g ref="char:EOLhyphen"/>rows; Nothing of the Pains of Sub<g ref="char:EOLhyphen"/>duing a Temptation; Nothing of the Self-denial of being without the Plea<g ref="char:EOLhyphen"/>ſures of a Sin; Nothing of the Dili<g ref="char:EOLhyphen"/>gence, and Watchfulneſs, and Care, of a Reformed State?</p>
+               <p>Come then, O come, my Soul, ſay, Seeing our Caſe is yet Hope<g ref="char:EOLhyphen"/>ful, at leaſt not Deſperate, let us from this moment be content, that one ſhort Life ſhould coſt us as much
+<pb n="22" facs="tcp:174216:17"/>as <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to, till all be over and ended, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we are conſign'd to our N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unknown, and eternal State, and Condition.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT. IV.</hi> How any Perſon may aſſuredly know, whether he has been Guilty of the Sin againſt the Holy Ghoſt.</head>
+               <p>HAving ſeen what the <hi>Sin against the Holy Ghost is;</hi> That is, what it was in the Phariſees: I ſhall Preſently ſhew what it is, in them who have been baptized, and have been Believers.</p>
+               <p>But before I come to <hi>That,</hi> I will ſtop a little; to ſhew how any Per<g ref="char:EOLhyphen"/>ſon may aſſuredly Judge, whether he have committed this <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin,</hi> or not.</p>
+               <pb n="23" facs="tcp:174216:17"/>
+               <p> Now, That no Man may miſtake, or, be at a loſs in This, and dwell in the uncomfortable State of Irre<g ref="char:EOLhyphen"/>ſolution and uncertainty, take This Rule:</p>
+               <q>'Tis certain, no Man commits a Sin againſt the Holy Ghoſt, if he be afraid he hath, and deſires he had not.</q>
+               <p>And the Reaſon of it is this: Be<g ref="char:EOLhyphen"/>cauſe ſuch Penitential Paſſions, De<g ref="char:EOLhyphen"/>ſires and Affections are againſt the very Definition, or Nature of <hi>this Sin.</hi>
+               </p>
+               <p>For, where-ever theſe are found; Theſe, Humble, Holy Fears to of<g ref="char:EOLhyphen"/>fend God, and Deſires to Pleaſe him; theſe Penitential Paſſions and Affe<g ref="char:EOLhyphen"/>ctions; There has not yet and can<g ref="char:EOLhyphen"/>not have been, a <hi>Witting,</hi> a <hi>Willing,</hi> a <hi>Malicious</hi> and <hi>total Apoſtaſie,</hi> or falling off from the Faith of Chriſt, and the Goſpel.</p>
+               <p>And yet ſuch an Apoſtacy, or Falling off 'tis; ſuch an Oppoſition and Denial of our Saviour 'tis, that
+<pb n="24" facs="tcp:174216:18"/>makes it the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin;</hi> to one that is, or has been a Be<g ref="char:EOLhyphen"/>liever.</p>
+               <list>
+                  <item>1. It muſt be <hi>Knowingly,</hi> and not of Ignorance.</item>
+                  <item>2. It muſt be a <hi>Willing</hi> Apoſtacy, or Denial; and not of Force, or Compulſion.</item>
+                  <item>3. It muſt be <hi>Malicious;</hi> and not of Infirmity.</item>
+                  <item>4. It muſt be a <hi>total</hi> Falling of; and not ſome particular Sin:</item>
+               </list>
+               <p>It muſt be all Theſe to make up the full Meaſure of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin.</hi>
+               </p>
+               <p>So that as I before ſaid, all Peni<g ref="char:EOLhyphen"/>tential Paſſions and Affections; All your Doubts and Fears leſt you ſhould have been guilty of it, and your De<g ref="char:EOLhyphen"/>ſires that you had not; are againſt the very Nature of <hi>this Sin.</hi>
+               </p>
+               <p>Theſe Things (as I ſhall hereafter ſhew) are infinite Incouragements to the <hi>Poor, Humble, Faithful</hi> Penitent; to go on, earneſtly, and chearfully,
+<pb n="25" facs="tcp:174216:18"/>and with Great Reſolutions in his Repentances; And in all his Faith<g ref="char:EOLhyphen"/>ful and Affectionate Deſires to fit himſelf for the Merits and Satisfa<g ref="char:EOLhyphen"/>ction of his Saviour.</p>
+               <p>And with all, they are an infinite incouragement to the Devout, yet humble Chriſtian, to go on with a <hi>great joy,</hi> even in the midſt of his <hi>Fears</hi> and <hi>Tremblings;</hi> To perſevere a little longer, (till his Day of Pro<g ref="char:EOLhyphen"/>bation be once over) in all the Parts and Inſtances, and Duties of a holy Life; In the Conſcientious Perfor<g ref="char:EOLhyphen"/>mance of Theſe few Commands which our Aſcended Saviour was pleaſed to leave us in Charge, when he went away.</p>
+               <p>Come then, (Dear Chriſtian) A<g ref="char:EOLhyphen"/>riſe, and go on <hi>Quickly</hi> and <hi>Perſe<g ref="char:EOLhyphen"/>veringly</hi> in thy Penitential Reſolu<g ref="char:EOLhyphen"/>tions; and in thy Faithful Deſires and Purpoſes, to <hi>cleanſe</hi> thy pollu<g ref="char:EOLhyphen"/>ted Soul by the Waters of Repen<g ref="char:EOLhyphen"/>tance; and to fit it for the <hi>Healing</hi> Blood of thy Saviour.</p>
+               <pb n="26" facs="tcp:174216:19"/>
+               <p> Perhaps, Thou haſt faln from thy Baptiſmal Innocence, by ſome Known Sin; and with <hi>Grief</hi> and <hi>Love,</hi> you do eaſily remember ſome diſmal In<g ref="char:EOLhyphen"/>ſtances of Ingratitude and Diſobe<g ref="char:EOLhyphen"/>dience to your Maſter; But yet whilſt you own there is <hi>Salvation in none other;</hi> and can <hi>allow your ſelf</hi> in no one Inſtance of that Diſobe<g ref="char:EOLhyphen"/>dience; but deſire nothing more than to reconcile him to you, by the Ways and Methods of his own Appoint<g ref="char:EOLhyphen"/>ment: Why, Conſider, though you have been a Sinner, you have been no Apoſtate; you have neither faln off from him, nor diſowned, or op<g ref="char:EOLhyphen"/>pos'd the Faith of your Saviour, and his holy Religion.</p>
+               <p>And till this be done; Till thou <hi>Knowingly, Willingly, Maliciouſly</hi> and <hi>Totally</hi> falleſt off from him, op<g ref="char:EOLhyphen"/>poſeſt and denieſt him; thou haſt not filled up the Full Meaſure of This <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy.</hi>
+               </p>
+               <p>How true, and how great an In<g ref="char:EOLhyphen"/>couragement this ſhould be to the <hi>Quickneſs,</hi> the <hi>Sincerity,</hi> and the <hi>Per<g ref="char:EOLhyphen"/>manency</hi>
+                  <pb n="27" facs="tcp:174216:19"/>of thy Repentance; and thy Return to him, and the Peace and Eaſe, and Serenity, and Delicacies of a Holy Life, you'll ſee pre<g ref="char:EOLhyphen"/>ſently.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>SECT. V. 3.</hi> The great Likelihood that you (Chriſtian Reader) have not yet been Guilty of this Sin.</head>
+               <p>BY the Tryal of your Self (Dear Chriſtian) by the foregoing Rule, you'll be able to make a Right Judgment of your State, in this Par<g ref="char:EOLhyphen"/>ticular; and will find great Likes that you have not yet drawn upon your Self the Guilt of the <hi>
+                     <g ref="char:V">Ʋ</g>npardo<g ref="char:EOLhyphen"/>nable Blaſphemy.</hi>
+               </p>
+               <p>And if not; what Infinite Encou<g ref="char:EOLhyphen"/>ragement have you, (even you in Par<g ref="char:EOLhyphen"/>ticular, whatever others intend to
+<pb n="28" facs="tcp:174216:20"/>do) to go on, in a Chearful Probity and Sanctity of Life; a chearful Love and Obedience to your deareſt Maſter.</p>
+               <p>And what infinite Encouragement has the Sinner to become a Peni<g ref="char:EOLhyphen"/>tent? Provided he do it <hi>Seaſonably</hi> and <hi>Quickly; Sincerely</hi> and with <hi>Per<g ref="char:EOLhyphen"/>ſeverance.</hi>
+               </p>
+               <p>What infinite Encouragement has the <hi>Poor, Humble, Trembling, Doubt<g ref="char:EOLhyphen"/>ing</hi> Chriſtian, to take chearfully upon him henceforward the Eaſie Yoke, and Light Burden of his Saviour; In the Faithful Diſcharge of theſe few Commands and Duties, to our <hi>God,</hi> our <hi>Selves,</hi> and <hi>Neighbours,</hi> which he was pleas'd to Leave with us.</p>
+               <p>And for him who has ſincerely begun for Heaven and Immorta<g ref="char:EOLhyphen"/>lity; for a bleſſed and a joyful Re<g ref="char:EOLhyphen"/>ſurrection: How great an Incou<g ref="char:EOLhyphen"/>ragement is it to continue to be all that's <hi>Holy, Juſt,</hi> and <hi>Good;</hi> a little longer, till his day be o<g ref="char:EOLhyphen"/>ver; and he be called to lay aſide
+<pb n="29" facs="tcp:174216:20"/>his Buſineſs here, and come away to a New, and a Better World.</p>
+               <p>To think, and to be <hi>aſſured</hi> that you have not yet been guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin:</hi> But may yet, if you perſevere (through the Merits of your Saviour) fill one of the vacant Seats of the faln Angels.</p>
+               <p>That you, even you too, may yet, (if you perſevere) be one of thoſe Beatified Spirits that ſhall paſs away with him in a rapturous and a pleaſurable Eternity.</p>
+               <p>That you, even you too, are not yet ſo far gone; but may, if you pleaſe, (through the Divine Grace; always ready for thoſe that <hi>beg,</hi> and thoſe that <hi>uſe</hi> it) be one of thoſe Souls that may Cauſe <hi>joy in Heaven,</hi> by a quick and a perſeve<g ref="char:EOLhyphen"/>ring; and a ſincere Return to the Commands and Laws, the Faith and Love of your Crucify'd Maſter.</p>
+               <p>For, do but give me Leave to <hi>Exa<g ref="char:EOLhyphen"/>mine your Caſe,</hi> as to <hi>this Sin,</hi> a lit<g ref="char:EOLhyphen"/>tle further.</p>
+               <pb n="30" facs="tcp:174216:21"/>
+               <p> Perhaps you have been a Sinner, in ſome diſmal Degrees and In<g ref="char:EOLhyphen"/>ſtances.</p>
+               <p>And this, even This, has been infi<g ref="char:EOLhyphen"/>nitely unkind and ungrateful; to have been ſo, towards a Tender Father, and a Compaſſionate Redeemer: This, even This has been diſmal; to Af<g ref="char:EOLhyphen"/>front and Abuſe ſo much Goodneſs; and to hazard thy own Future Hopes and Expectations, by any known <hi>Actual Sin;</hi> and much more by any <hi>Habitual one.</hi>
+               </p>
+               <p>But come Chriſtian, Though this be ſad and diſmal, can you have a better Encouragement quickly to Re<g ref="char:EOLhyphen"/>turn, than This: That you have not been guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardona<g ref="char:EOLhyphen"/>ble Sin.</hi>
+               </p>
+               <p>Oh come, let this melt Thee into <hi>Love,</hi> and endear Thee to <hi>Obedience.</hi> Let This melt Thee into Penitential Tears; Tears of Grief, as well as Tears of Love; Tears of Hope, and Tears of Joy too, as well as Tears of Re<g ref="char:EOLhyphen"/>pentance; That this Sin and Blaſphe<g ref="char:EOLhyphen"/>my is not chargeable upon Thee.</p>
+               <pb n="31" facs="tcp:174216:21"/>
+               <p> For, do but Examine,</p>
+               <p>
+                  <hi>Haſt thou Blaſphem'd the Holy Ghoſt in Saying ever, That the Miracles which thy Saviour did by the Power of the Holy Ghost, were done by the Devil? Didſt thou ever make <g ref="char:V">Ʋ</g>ſe of This as an Argument againſt the Believing Jeſus, and his Goſpel? Didſt thou ever Reſist and Deny him, and his Holy Laws and Doctrines; and make <g ref="char:V">Ʋ</g>ſe of This as an Argu<g ref="char:EOLhyphen"/>ment to Reſist and Deny him?</hi> No, This you cannot charge upon your Self.</p>
+               <p>And if ſo; Then, as I ſaid, you cannot chuſe, but with Tears of <hi>Hopes</hi> and <hi>Joys,</hi> and <hi>Grief</hi> and <hi>Love,</hi> Return to him quickly by Repen<g ref="char:EOLhyphen"/>tance; and Perſevere and Hold on in a New and a Better Obedi<g ref="char:EOLhyphen"/>ence; Seeing there is, upon Theſe Terms, Hopes for Thee, even Thee too.</p>
+               <p>To Examine a little further;</p>
+               <p>Haſt thou been guilty of an <hi>
+                     <g ref="char:V">Ʋ</g>tter Willful,</hi> and <hi>Spiteful</hi> rejecting of the Goſpel of Salvation, by the Holy Jeſus?</p>
+               <pb n="32" facs="tcp:174216:22"/>
+               <p> Haſt thou been guilty of This, notwithſtanding that in thy Con<g ref="char:EOLhyphen"/>ſcience thou wert convinced, that Jeſus is the Chriſt, and that Faith and Holineſs, is the Way to be Sa<g ref="char:EOLhyphen"/>ved?</p>
+               <p>Haſt thou been guilty of an ad<g ref="char:EOLhyphen"/>viſed and abſolute falling away from the Profeſſion of the Faith of Chriſt, ſo far, that againſt former Know<g ref="char:EOLhyphen"/>ledge and Conſcience thou doſt <hi>ma<g ref="char:EOLhyphen"/>liciouſly</hi> Oppoſe and Blaſpheme the <hi>Holy Spirit of God</hi> in the Word, and in the Ordinances of the Go<g ref="char:EOLhyphen"/>ſpel?</p>
+               <p>Haſt thou ſo far <hi>rejected, reſiſted, and utterly quenched</hi> all the Perſwa<g ref="char:EOLhyphen"/>ſions and Motions of the Spirit of God, working formerly upon your Heart and Affections, as, out of hatred to Chriſt, to <hi>Oppoſe</hi> and <hi>Deny</hi> and <hi>Diſown</hi> him and his Doctrines? Or ſo far, as thus to Crucifie to your ſelf afreſh the Son of God; and by diſowning him, <hi>to put him to open Shame.</hi> (Heb. 6.6.) <hi>Treading under foot the Son of God, and counting
+<pb n="33" facs="tcp:174216:22"/>the Blood of the Covenant wherewith you were ſanctified, an unholy Thing;</hi> or <hi>Thus done deſpite to the Spirit of Grace?</hi>
+               </p>
+               <p>Then indeed (hadſt thou alſo <hi>to<g ref="char:EOLhyphen"/>tally</hi> and <hi>finally</hi> continued in this State, and liv'd and dy'd in it) hadſt thou been Guilty of this <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>pardonable Sin.</hi>
+               </p>
+               <p>Which Sin (by the way) is alſo called the Sin againſt the <hi>Holy Ghoſt,</hi> and becomes Unpardonable, becauſe 'tis againſt the Office of the Holy Ghoſt; and againſt the Gracious Operations of the Holy Spirit; whoſe Buſineſs and Office 'tis to perſwade us to receive Chriſt crucified, and the Faith and Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+               <p>Well; Though thou haſt then been a Sinner, and unkindly Grie<g ref="char:EOLhyphen"/>ved the Holy Spirit of Love; yet thou haſt been no Apoſtate: That is, Thou haſt yet been Guilty of no <hi>Willing, Malicious, Total</hi> Falling off from Chriſt, and the Faith and Doctrine of the Goſpel, tendred to
+<pb n="34" facs="tcp:174216:23"/>thee by the Holy Ghoſt, and againſt the Light and Convictions of That Sacred Spirit; thou haſt not yet <hi>denied him,</hi> and by a <hi>willful Blindneſs oppos'd him</hi> too.</p>
+               <p>If things are thus with Thee, (Sinner) as I verily believe they are; Come, be ſo far Comforted, as <hi>chearfully,</hi> but yet <hi>Quickly</hi> and <hi>Sincerely,</hi> to return to thy offended God and Saviour; and do not ſtay in the Confines of Deſperation any longer than you Dwell in your Sin.</p>
+               <p>Nay, for thy Conſolation and En<g ref="char:EOLhyphen"/>couragement in thy Speedy Re<g ref="char:EOLhyphen"/>turn to thy offended Father, in the Faith and Name of Jeſus, I have This further to add concer<g ref="char:EOLhyphen"/>ning <hi>the Blaſphemy againſt the Holy Ghost;</hi>
+               </p>
+               <p>That the <hi>Sin</hi> it ſelf is only upon this Account <hi>
+                     <g ref="char:V">Ʋ</g>npardonable,</hi> becauſe it hath a <hi>finally</hi> Impenitent Tem<g ref="char:EOLhyphen"/>per joyn'd with it: For otherwiſe were it poſſible that ſuch a Sinner, ſhould Repent (by a <hi>Sincere</hi> and
+<pb n="35" facs="tcp:174216:23"/>
+                  <hi>Perſevering</hi> Repentance) there would be no doubt of his Pardon.</p>
+               <p>Even the <hi>Blaſphemer of the Holy Spirit</hi> himſelf, Repenting, Retur<g ref="char:EOLhyphen"/>ning, Believing, Laying hold on the Mercies of God in the Lord Jeſus, and Coming in to his Faith, and Love and Obedience, ſhall have Mercy.</p>
+               <p>Here ſtop a little (Dear Chriſtian) and be perſwaded to Conſider the great Cauſe you have to Reſolve pre<g ref="char:EOLhyphen"/>ſently, and intirely to caſt off the Sin that does ſo eaſily beſet you; and to chooſe Wiſer and Better, and to Re<g ref="char:EOLhyphen"/>turn to the Ways of your Maſter, with Speed, and Care, and Conſola<g ref="char:EOLhyphen"/>tion too: Do it <hi>Quickly,</hi> and <hi>Sincerely,</hi> and I do aſſure you, your Caſe is not yet Deſperate.</p>
+               <p>Oh that This Conſideration might melt thee once more into Tears of Grief, and Love and Joy too; Tears of Hope and Penitential Tears. And how can it chooſe but do ſo; That there ſhould be Balm in <hi>Gilead</hi> for thee, even Thee too: And that for
+<pb n="34" facs="tcp:174216:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:174216:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="36" facs="tcp:174216:25"/>Thee, there ſhould be a Phyſician there.</p>
+               <p>Let this make it an evil and a Bitter Thing to thee, as the Prophet ſpeaks, <hi>Jer.</hi> 2.19. <hi>That thou haſt forſaken the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Evil and Bitter</hi> let it appear to thee, That thou haſt held out in any Known Sin, againſt ſo much Ten<g ref="char:EOLhyphen"/>derneſs and Compaſſion, Love and Pity, Long-ſuffering and Forbearance, which St. <hi>Paul</hi> ſays an Ingenuous Temper would have made another uſe of, <hi>Rom.</hi> 2.4.</p>
+               <p>
+                  <hi>Evil and Bitter</hi> let it appear to thee, That thou haſt held out in any Dar<g ref="char:EOLhyphen"/>ling Vice, ſo long, againſt ſo many Gracious Calls, and Invitations, and Wooings of Thee to be Wiſe and Happy.</p>
+               <p>
+                  <hi>Evil and Bitter</hi> let it appear to thee, That thou haſt held out ſo long, and taken little, or no No<g ref="char:EOLhyphen"/>tice of the Dying Words of a cru<g ref="char:EOLhyphen"/>cified Maſter; but haſt diſ-regarded what he left thee in Charge when he went away.</p>
+               <pb n="37" facs="tcp:174216:25"/>
+               <p> 
+                  <hi>Evil and Bitter,</hi> it muſt needs ap<g ref="char:EOLhyphen"/>pear to thee, to have Held out ſo Long, againſt the Calls and Invita<g ref="char:EOLhyphen"/>tions of Agonizing Love, Speaking to thee meltingly, and Saying, <hi>If ye Love me, keep my Commandments.</hi>
+               </p>
+               <p>Come (Dear Chriſtian) after ſuch a Thought as This, Try if thou can'ſt find it in thy Heart to Return to Affront him again, as bad as ever, by any Known Sin.</p>
+               <p>Try if in this Thought, you can go on, and ſtill find it in your Heart, to Affront him as much as ever, by the voluntary Omiſſion of any Known neceſſary Duty.</p>
+               <p>And then preſently in a Holy Me<g ref="char:EOLhyphen"/>ditation look up to him, with Re<g ref="char:EOLhyphen"/>verential Love, where he is now Preparing a Place for you, (if you will) and ſay to him, with an affe<g ref="char:EOLhyphen"/>ctionate Humility,</p>
+               <p>Bleſſed Jeſu! Long haſt thou ſtaid for me, and not given me up to a Reprobate Spirit; but thou ſhalt ſtay no longer: Thou haſt long look'd for me, and not given me up to a Spirit
+<pb n="38" facs="tcp:174216:26"/>of Deſperation; but thou ſhalt look for me no longer.</p>
+               <p>I can hold out no longer, I will hold out no longer, againſt ſo much Love and Mercy; So much Patience and Forbearance; So much Long-ſuffering and Goodneſs.</p>
+               <p>I will, I can hold out no longer: Let the Sin promiſe what it will, I will Hold out no longer againſt thee.</p>
+               <p>Let the Duty coſt what it will, I can hold out no longer againſt the endearing Calls and Intreaties of <hi>Bleeding, Groaning, Agonizing, Dying</hi> Love. No, I cannot.</p>
+               <p>But ſeeing I have this Comfort, that I have not <hi>Blaſphemed thy Spirit,</hi> or denied Thee; and have ſo great Cauſe to Hope, That I have not Com<g ref="char:EOLhyphen"/>mitted the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin;</hi> I am infinitely encouraged to come, and to come joyfully to do Thy Will: And I will come <hi>Quickly,</hi> for I know the Night comes, when none can work.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="39" facs="tcp:174216:26"/>
+               <head>
+                  <hi>SECT. VI.</hi> The firſt Practical Inference, or Inſtance of Application; from the Conſideration of the Nature and Meaning of the Sin againſt the Holy Ghoſt: <hi>Viz.</hi> That 'tis Matter of great Encouragement for the Faithful Penitent to go on very Comfortably, but yet very Sincerely in his Repen<g ref="char:EOLhyphen"/>tances.</head>
+               <p>HAving thus finiſh'd my <hi>Three</hi> firſt Heads of Diſcourſe, and ſhewn plainly what <hi>this Sin</hi> is, and How we may aſſuredly know whe<g ref="char:EOLhyphen"/>ther we have committed it or not; and ſhown withall the great Likelihood That no Chriſtian Reader has: I now come to a few Inferences, or Uſes.</p>
+               <pb n="40" facs="tcp:174216:27"/>
+               <p> Inferences which I would leave not only upon the Underſtandings, but upon the Memory; And not only upon the Memory, but upon the Heart and Affections, the Life and Actions of Every Reader.</p>
+               <p>That the Great Sinner may not Deſpair of the Divine Mercy.</p>
+               <p>That the faithful Penitent may be encouraged to go on, and with Com<g ref="char:EOLhyphen"/>fort perfect his Repentances.</p>
+               <p>That no Man may <hi>Preſume to continue</hi> in any Known Sin: And, That the Poor, Humble, Doubting, but Devout Chriſtian, may be en<g ref="char:EOLhyphen"/>couraged to go on, with a Holy Joy, in a Life of Faith and Devo<g ref="char:EOLhyphen"/>tion; Piety and Charity; Watch<g ref="char:EOLhyphen"/>fulneſs and Care; Probity and San<g ref="char:EOLhyphen"/>ctity; Self-denial and Purity; Love and Obedience; a little longer, till his ſhort Day be over, and all be well with him, and he finds him<g ref="char:EOLhyphen"/>ſelf admitted ot the New Glories of a better World.</p>
+               <p n="1">
+                  <pb n="41" facs="tcp:174216:27"/> 1. Practical Inference,</p>
+               <p>
+                  <hi>From the Conſideration of what has been ſaid of the Sin againſt the Holy Ghoſt; Here firſt Reſults Matter of Encouragement for the Faithful Peni<g ref="char:EOLhyphen"/>tent to go on very Comfortably, but yet very Sincerely too in his Repen<g ref="char:EOLhyphen"/>tances.</hi>
+               </p>
+               <p>Thou haſt faln, perhaps, from thy Baptiſmal Innocence, and Affronted and Diſobey'd <hi>a Tender Father;</hi> un<g ref="char:EOLhyphen"/>gratefully and unkindly abus'd all the Endearments of a <hi>Compaſſionate Redeemer,</hi> who was pleaſed to Die for you before you knew you nee<g ref="char:EOLhyphen"/>ded him; and have griev'd the <hi>Holy Spirit</hi> of God, by <hi>whom you were ſeal'd to the Day of Redemption,</hi> Eph. 4.30.</p>
+               <p>That you have done <hi>This,</hi> may be a ſad and a diſmal Truth.</p>
+               <p>But perhaps too, you are extream<g ref="char:EOLhyphen"/>ly Senſible that you have choſen amiſs, and Reſolve to return and to chooſe Better and Wiſer; and with
+<pb n="42" facs="tcp:174216:28"/>the Prodigal, (St. <hi>Luke</hi> 13.) to <hi>ariſe and go to your Father, and ſay, Fa<g ref="char:EOLhyphen"/>ther, I have ſinned againſt Heaven, and before Thee, and am no more wor<g ref="char:EOLhyphen"/>thy to be call'd thy Son, make me as one of thy Servants.</hi>
+               </p>
+               <p>It may be, you find it to be a great Truth, what the Wiſe King tells you, (<hi>Prov.</hi> 3.17.) <hi>That the ways of Religious Wiſdom, are ways of Pleaſantneſs, and all her Paths are Peace:</hi> And it may be too, you have ſound what the Prophet ſays, to be as great a Truth.</p>
+               <p>A Truth; <hi>Iſai.</hi> 57. laſt. <hi>There is no Peace to the Wicked.</hi> And finding all this to be true, by your own Experience; you have been often <hi>thinking,</hi> and are now <hi>Reſolv'd</hi> to return to the Ways of God, and a vertuous Courſe; and to be Wiſe and Happy.</p>
+               <p>Why, if this be ſo <hi>Speedy</hi> and <hi>Sincere,</hi> and <hi>Perſevering,</hi> as that you find your ſelf to be in <hi>Good earnest</hi> with God and your Soul; here is then Matter of infinite Incourage<g ref="char:EOLhyphen"/>ment,
+<pb n="43" facs="tcp:174216:28"/>for you to go on, with a holy <hi>Joy,</hi> and a very Great <hi>Chear<g ref="char:EOLhyphen"/>fulneſs,</hi> That your Labour is not like to be in vain, in as much as the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin</hi> has yet been none of yours.</p>
+               <p>The Arms of your Saviour, that were once ſtretcht out upon the Croſs, to the very Poſture of Im<g ref="char:EOLhyphen"/>bracing, are open to receive you too, even you: Only be ſure of This, That your Return and your Change be <hi>Preſent, Permanent</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>niverſal.</hi> And then the very Blaſ<g ref="char:EOLhyphen"/>phemer himſelf is not excepted: He alſo, if he thus go, may cauſe Joy in Heaven among the Beatified Spi<g ref="char:EOLhyphen"/>rits of the Upper World.</p>
+               <p>You, even you in particular, (Dear Chriſtian) that but lately were a<g ref="char:EOLhyphen"/>fraid you had committed the <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>pardonable Sin,</hi> may <hi>Cauſe Joy</hi> too among the Bleſſed Inhabitants of theſe Lovely Regions.</p>
+               <p>And if you <hi>may,</hi> oh how ſhould This Thought encourage, melt, and endear, your panting, ſighing, lan<g ref="char:EOLhyphen"/>guiſhing
+<pb n="44" facs="tcp:174216:29"/>Heart, into intire Reſolu<g ref="char:EOLhyphen"/>tions of Doing ſo!</p>
+               <p>And indeed tell me truly, Chri<g ref="char:EOLhyphen"/>ſtian; Is it not infinitely better to <hi>Cauſe Joy</hi> in Heaven, among the Beatified Spirits of the upper Lovely Regions, than <hi>Joy</hi> only to the Ac<g ref="char:EOLhyphen"/>curſed Spirits of Darkneſs?</p>
+               <p>Methinks, to a Wiſe Man, it ſhould be infinitely more deſirable and chu<g ref="char:EOLhyphen"/>ſable to have a good Report of him among the Beautiful Inhabitants of the Upper World, than only among a few wicked, and miſtaken Peo<g ref="char:EOLhyphen"/>ple Here.</p>
+               <p>Methinks, it ſhould be much more chuſable to Cauſe <hi>Joy</hi> to him you have <hi>Griev'd;</hi> (even the Holy Spirit of God,) than to Cauſe <hi>Joy</hi> to him, who only <hi>Rejoices,</hi> in Hopes of your being made a Partner with him, in the Sorrows of Eternity.</p>
+               <p>And if you will preſently reſolve to be ſo Wiſe and Happy, (for if you will, you may; and theſe Bleſſed Spirits deſire it, and look for it) as to <hi>Cauſe Joy</hi> among theſe Bleſſed
+<pb n="45" facs="tcp:174216:29"/>and ſweet, and lovely, and glorious Inhabitants, the <hi>Joy will</hi> be your own: The Peace and <hi>Joy</hi> will be your own, <hi>firſt</hi> and <hi>laſt</hi> too: Yours <hi>here,</hi> and yours <hi>Hereafter.</hi>
+               </p>
+               <p>You'll find a preſent <hi>Joy and Peace</hi> in the Change, far beyond whatever you found in the Ways of Wicked<g ref="char:EOLhyphen"/>neſs, and in the Paths of Unrighte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+               <p>You'll find, upon the Change, a far Greater Pleaſantneſs, and Eaſe and Satisfaction in a Religious Courſe, than ever you could find in a De<g ref="char:EOLhyphen"/>bauch'd, an Irregular and a Prophane Life: Infinitely more Subſtantial, and laſting Tranquility and Sedateneſs, and Serenity of Mind, more light<g ref="char:EOLhyphen"/>ſomneſs and chearfulneſs of Heart in the one, than ever you did in the other: And beſides your own <hi>Joys</hi> and Peace on Earth, you'll <hi>cauſe Joy</hi> among thoſe Kind and Good and Bleſſed Spirits, to whom you Hope to be admitted; and with whom you Hope to paſs away a Rapturous, and a pleaſurable Eternity.</p>
+               <pb n="46" facs="tcp:174216:30"/>
+               <p> And if you may cauſe theſe Joys to your <hi>ſelf</hi> and <hi>them,</hi> tell me (Dear Chriſtian) why will you not? why ſhould not you, be earneſt to do ſo; Conſidering the very Comfor<g ref="char:EOLhyphen"/>table Hopes you have, that the <hi>Blaſ<g ref="char:EOLhyphen"/>phemy</hi> againſt the <hi>Holy Ghoſt,</hi> has been none of your Sin?</p>
+               <p>And methinks, Chriſtian, if you would but rationally compare and weigh things, and <hi>ſee them as they truly are;</hi> all the little uneaſie Joys, and vain Delights of a Sinful Courſe of any ſort, ſhould appear very in<g ref="char:EOLhyphen"/>conſiderable, compar'd with the Joys, Preſent and Future, which you would bring to your ſelf, (as well as to the upper Lovely Spirits) by your Reformation.</p>
+               <p>For, if there be no Peace to the wicked, no true <hi>Joy;</hi> and if there be <hi>Joy</hi> in Heaven at the Converſion of a Sinner, and <hi>Joy</hi> to himſelf too, on Earth; <hi>Joys</hi> above, and <hi>Joys</hi> be<g ref="char:EOLhyphen"/>low; ſome <hi>Joys</hi> in Hand, and ſome in Reverſion; ſome Preſent, and ſome Future; can there be a grea<g ref="char:EOLhyphen"/>ter
+<pb n="47" facs="tcp:174216:30"/>Madneſs, than to deny your Self theſe True <hi>Joys,</hi> for any Iniquity whatever; in which there can be nei<g ref="char:EOLhyphen"/>ther Peace, nor <hi>Joy;</hi> no long Peace, or laſting <hi>Joy?</hi>
+               </p>
+               <p>Why will you any longer permit your Self to be thus cheated and abuſed by the World, or the Devil, or your own corrupt Affections, that would lead you to a Sin, and then fain perſwade you there is more Peace and <hi>Joy</hi> in it, than in a Life of Purity and Vertue, Probity and Sanctity, when all this is Falſe?</p>
+               <p>And we are aſſured 'tis Falſe, both from the Voice of Scripture, and the Information of Experience. <hi>There is no Peace to the Wicked; but the Ways of Vertue are Ways of Pleaſantneſs, and all her Paths are Peace:</hi> So ſays the Language of the Scripture.</p>
+               <p>And the Voice of Experience, that ſays the ſame. No Peace; Nothing but Stings and Gnawings; Shame and Diſhonour; Laſhings and Rendings; Inward Frettings and
+<pb n="48" facs="tcp:174216:31"/>Uneaſineſs; Diſcompoſures and Diſ<g ref="char:EOLhyphen"/>orders; Heart-akings and Heavineſs of Soul; Fearfulneſs and Diſſatisfa<g ref="char:EOLhyphen"/>ctions of Mind; Unquiet Days, and Reſtleſs Nights, attend a Sinful Courſe.</p>
+               <p>And, for the Truth of all This, I dare venture to appeal to the Sin<g ref="char:EOLhyphen"/>ner's own Experience.</p>
+               <p>And is This That which you like better than your own Inward Peace? Is This That which you like better, than you do to Cauſe <hi>Joy</hi> in Hea<g ref="char:EOLhyphen"/>ven (by your Converſion from Sin to God) and to Recover your own Peace and <hi>Joy</hi> again here; and to make way for the extatick <hi>Joys</hi> of Futurity?</p>
+               <p>Come now (Chriſtian) upon a View of <hi>both,</hi> take which of <hi>the two</hi> you pleaſe. Either the <hi>Stings</hi> and <hi>Gnawings;</hi> The <hi>Shame</hi> and the <hi>Diſhonour;</hi> The <hi>Laſhings</hi> and the <hi>Rendings;</hi> The <hi>In<g ref="char:EOLhyphen"/>ward Frettings</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>neaſineſs;</hi> The <hi>Diſcompoſures</hi> and <hi>Diſorders;</hi> The <hi>Heart-Akings,</hi> and <hi>Heavineſs of Soul;</hi> The <hi>Fearfulneſs</hi> and <hi>Diſſatisfactions</hi>
+                  <pb n="49" facs="tcp:174216:31"/>of <hi>Mind;</hi> The <hi>
+                     <g ref="char:V">Ʋ</g>nquiet Days,</hi> and <hi>Reſtleſs Nights,</hi> of an Irreligious, a Careleſs and a Prophane Courſe: Or, do This: Cauſe <hi>Joy</hi> in Heaven, as well as <hi>Joy</hi> and Peace to your Self, by a Speedy Converſion from ſuch an Uneaſie Courſe, to the Love and Obedience of your Saviour, and the Ways of Holineſs.</p>
+               <p>And bleſſed be God, That the Choice is yet put to you; and That you have not yet drawn upon your ſelf the Guilt of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy.</hi>
+               </p>
+               <p>'Tis true, indeed, you may if you pleaſe (Chriſtian) Call the Stings and Gnawings; the Shame and the Diſhonours; The Fearfulneſs and Diſſatisfactions of Mind; The Fret<g ref="char:EOLhyphen"/>ting and Uneaſineſs of a Sinful Courſe; you may Call them Joys: But yet, oh that the Inconſiderate Sinner would but try the Diffe<g ref="char:EOLhyphen"/>rence.</p>
+               <p>The Difference (I mean) between the No-Peace of a Wicked and a Prophane Courſe; and the unknown
+<pb n="50" facs="tcp:174216:32"/>Peace and Delicacies of a Vertuous one.</p>
+               <p>All the Wiſeſt, and all the Beſt, and all the Diſcreeteſt Men of the World, that could ſee furtheſt into Theſe Things, have done ſo: and they have quickly been convinced of the Truth of them.</p>
+               <p>And why will not you be That Happy Perſon (Chriſtian)? What ſhould hinder you from being Wiſe for your Self, and Wiſe for your Eter<g ref="char:EOLhyphen"/>nity? Wiſe for your Trueſt, and your Beſt Intereſt?</p>
+               <p>Or, If you will not have me ask you the Queſtion, yet do This: Ask your ſelf the Queſtion, in your next Retirements, when you are alone, and with-drawn from the World.</p>
+               <p>Why, my Soul, (ſay) Why ſhall not I be That Happy Perſon, That ſhall Cauſe <hi>Joy</hi> in Heaven, and <hi>Joy</hi> to my Self; Joy Above, and Joy Be<g ref="char:EOLhyphen"/>low; Joys Preſent, and Future Joys, by my ſpeedy Converſion from Sin to God, from my boſom, darling
+<pb n="51" facs="tcp:174216:32"/>Sin? (My Sin—) Eſpecially con<g ref="char:EOLhyphen"/>ſidering the Hopes we have, of being yet Succeſsful, if we are <hi>Speedy, Sin<g ref="char:EOLhyphen"/>cere,</hi> and <hi>Perſevering.</hi>
+               </p>
+               <p>The <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy</hi> has been none of our Sin; Oh come, then let us preſently Ariſe and go to our Father; and return <hi>Quickly</hi> with the Prodigal.</p>
+               <p>And then for the little Time that we have yet left for Eternity, we'll Labour Chearfully to continue in our Father's Houſe, and Favour, by the few Rules of Probity and Sanctity, which our Aſcended Saviour was pleaſed to leave with us, when he went away.</p>
+               <p>Till our ſhort Day be ended, and the Curtain be drawn, and we give way to the next Age, and we be ſecurely put away to Reſt; and then our Work is over.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="52" facs="tcp:174216:33"/>
+               <head>
+                  <hi>SECT. VII.</hi> The Second Practical Inference, or Inſtance of Application, from the Conſideration of the Nature and the Meaning of the Sin a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt, is This: It brings Matter of Reproof and Terrour to the Careleſs and the Prophane Perſon that goes on in any known Sin; and takes no Care to Come in, and Re<g ref="char:EOLhyphen"/>turn to God By Repentance; <hi>and to Labour for the Contrary Vertue, and Live in it.</hi>
+               </head>
+               <p>FRom what has been ſaid of the <hi>Sin againſt the Holy Ghoſt;</hi> it appears very likely (Chriſtian) that thou haſt not been Guilty of that <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>pardonable Blaſphemy.</hi>
+               </p>
+               <pb n="53" facs="tcp:174216:33"/>
+               <p> Thou haſt not with the Phariſees <hi>Blaſphem'd him,</hi> in affirming, That the Miracles which thy Saviour wrought by the Power of the <hi>Holy Ghoſt,</hi> were done by the Devil; Nor haſt thou made uſe of this as an Argument to deny him to be the Chriſt.</p>
+               <p>Thou haſt not yet been Guilty of a <hi>Known, Malicious,</hi> and <hi>Total</hi> Falling off from, and Denying the Faith of Chriſt, and the Doctrine of the Goſpel.</p>
+               <p>Thou haſt not yet been Guilty of an <hi>
+                     <g ref="char:V">Ʋ</g>tter, Willful, Spiteful</hi> rejecting of the Faith and Doctrine of Chri<g ref="char:EOLhyphen"/>ſtianity; notwithſtanding that thou wert convinc'd, that Jeſus is the Chriſt.</p>
+               <p>Thou can'ſt not Charge theſe Things upon thy Self; and there<g ref="char:EOLhyphen"/>fore there is Reaſon to believe thou haſt not committed <hi>the <g ref="char:V">Ʋ</g>npardonable Sin.</hi>
+               </p>
+               <p>So far, indeed, thy Caſe is Hope<g ref="char:EOLhyphen"/>full.</p>
+               <pb n="54" facs="tcp:174216:34"/>
+               <p> But alas! Perhaps all this while, thou liveſt in ſome known, willful Sin: Thou continueſt impenitently in ſome one ſuch Guilt; takeſt no Care to get out of it, to Return to thy God by Repentance, and Refor<g ref="char:EOLhyphen"/>mation, and <hi>to obtain the Contrary Virtue, and Live in it.</hi>
+               </p>
+               <p>If this be thy Caſe, laſt men<g ref="char:EOLhyphen"/>tion'd, what does it ſignifie, That thou haſt not been Guilty of the <hi>Sin against the Holy Ghost?</hi> For our Saviour tells us, <hi>Except ye Repent, ye ſhall all likewiſe Periſh.</hi>
+               </p>
+               <p>Thou haſt not been Guilty, (very probably) of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſ<g ref="char:EOLhyphen"/>phemy:</hi> But alas! that other known, willful Sin continu'd in, is (ſo long as 'tis continu'd in) <hi>the <g ref="char:V">Ʋ</g>npardona<g ref="char:EOLhyphen"/>ble Sin.</hi>
+               </p>
+               <p>And let This be Matter of Ter<g ref="char:EOLhyphen"/>rour and Reproof, and juſt Cauſe of Trembling to the <hi>Careleſs,</hi> and the <hi>Impenitent,</hi> and the <hi>Habitual</hi> Sinner.</p>
+               <p>Suppoſe thou haſt not been Guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy:</hi> Ay,
+<pb n="55" facs="tcp:174216:34"/>but what if thy Lord come and find any other Known Iniquity; (thy darling Boſom Vice eſpecially) <hi>un<g ref="char:EOLhyphen"/>reform'd, unrepented of, unmortify'd, continu'd</hi> in, by Thee?</p>
+               <p>Can'ſt thou expect then to be found in his Favour?</p>
+               <p>If thou art found out of the <hi>Co<g ref="char:EOLhyphen"/>venant of Grace,</hi> that is, continu<g ref="char:EOLhyphen"/>ing in ſome Known Diſobedience to him impenitently; thou haſt then Reaſon, (ſo long as you ſo conti<g ref="char:EOLhyphen"/>nue) to expect as little Mercy as if thou hadſt committed the <hi>
+                     <g ref="char:V">Ʋ</g>npar<g ref="char:EOLhyphen"/>donable Sin.</hi> And how ſhould this Conſideration, drive thee to a <hi>Quick</hi> and <hi>a Perſevering Repentance</hi> of that Known Sin, be it what it will.</p>
+               <p>And if, as St. <hi>Paul</hi> ſays, the For<g ref="char:EOLhyphen"/>bearance and Goodneſs of God ſhould lead thee to Repentance; How ſhould theſe <hi>Terrours of the Lord,</hi> as the ſame Apoſtle calls them, perſwade Thee and prevail upon Thee to <hi>run</hi> to it; and to chooſe wiſer and better; and to do it <hi>quickly;</hi> Leſt thy Lord
+<pb n="56" facs="tcp:174216:35"/>come, and find thee, (though not a Blaſphemer of the Holy Ghoſt, yet) out of his Way, and his Obedience; <hi>Going on</hi> in ſome deliberate, habi<g ref="char:EOLhyphen"/>tual Sin.</p>
+               <p>Should he Thus come and find Thee; come either by Death or Judg<g ref="char:EOLhyphen"/>ment, and find thee out of his Co<g ref="char:EOLhyphen"/>venant of Grace, and Conſign thee to the Sorrows of Eternity; what ſhall it avail thee to ſay, thou haſt not been Guilty of the <hi>Blaſphemy againſt the Holy Ghost?</hi>
+               </p>
+               <p>For, could <hi>That</hi> have done any <hi>More,</hi> or done any <hi>worſe</hi> than This? Than to exclude thee from the Fa<g ref="char:EOLhyphen"/>vour of thy God; the Lovely Man<g ref="char:EOLhyphen"/>ſions of the Upper World; and Bind thee over to eternal Infelicities?</p>
+               <p>Let this therefore be a juſt Re<g ref="char:EOLhyphen"/>proof and Terrour to all that con<g ref="char:EOLhyphen"/>tinue in any <hi>one Known willful</hi> Sin: Though they have not been Guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy.</hi>
+               </p>
+               <p>For if they will make any other Falls, any other Sins, <hi>
+                     <g ref="char:V">Ʋ</g>npardonable</hi> to themſelves by Impenitently con<g ref="char:EOLhyphen"/>tinuing
+<pb n="57" facs="tcp:174216:35"/>in them, and going on in them, with open Eyes, and a full Conſent of the Will, it can avail them but little, to ſay, they have not committed the <hi>Sin against the Holy Ghoſt.</hi>
+               </p>
+               <p>And let it prevail with you, (Chriſtian) even you in particular, to Turn from Sin to God; to caſt off your former Evils, and inſtead thereof, conſtantly to ſet about all thoſe Chriſtian Duties, which our Lord was pleaſed to leave you in Charge when he went away. <hi>And more particularly, to Throw off that Iniquity of yours to which you have moſt indulg'd, and by which you have moſt frequently faln; And to labour to ob<g ref="char:EOLhyphen"/>tain the Contrary Virtue, and Live in it.</hi>
+               </p>
+               <p>For let me moſt ſeriouſly and affe<g ref="char:EOLhyphen"/>ctionately ask you, as I would a ra<g ref="char:EOLhyphen"/>tional Expecter of a Bleſs'd Reſurre<g ref="char:EOLhyphen"/>ction; You ſay, you have not been Guilty of the Sin and <hi>Blaſphemy againſt the Holy Ghoſt;</hi> and 'tis like you have not: Well; and will you
+<pb n="58" facs="tcp:174216:36"/>(Chriſtian) make any other Known Sin or Fall <hi>
+                     <g ref="char:V">Ʋ</g>npardonable</hi> to you, by your impenitently going on and con<g ref="char:EOLhyphen"/>tinuing in it? Is it not infinite Im<g ref="char:EOLhyphen"/>prudence, and infinite Pity you ſhould delay your Return to God, one Day, when your Condition might be ſo Hopefull? Or, that you ſhould make your Sin, become the <hi>Vnpardoned Sin;</hi> by your Impenitent Living and Dying in it; By your being found in it, at the Hour of Death, and the Reſurrection?</p>
+               <p>For, do but Conſider again: The <hi>Covenant of Grace</hi> is not only a Covenant of <hi>Faith,</hi> but of <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> and <hi>Obedience</hi> too. And that 'tis ſo, is not only the plain Lan<g ref="char:EOLhyphen"/>guage of the Scripture; but even of Common Reaſon, that it ſhould be ſo.</p>
+               <p>For, what think you, (Chriſtian) Can the Murtherers of Fathers, and the Murtherers of Mothers, as the Apoſtle ſpeaks; Can the Prophane, and the Impenitent, the Atheiſtical, and Debauch'd Perſon, expect to be
+<pb n="59" facs="tcp:174216:36"/>put away to the Society of the Hum<g ref="char:EOLhyphen"/>ble, Holy, Mortify'd and Devout Souls of all Ages?</p>
+               <p>Can the <hi>
+                     <g ref="char:V">Ʋ</g>njuſt</hi> Perſon (impeni<g ref="char:EOLhyphen"/>tently ſo continuing,) expect to be put away to Juſt <hi>Zachaeus,</hi> and to the Spirits of Juſt Men made Per<g ref="char:EOLhyphen"/>fect? Is it likely he ſhould be qua<g ref="char:EOLhyphen"/>lified to paſs away with them a plea<g ref="char:EOLhyphen"/>ſurable Eternity?</p>
+               <p>Can the <hi>Prophane Swearer,</hi> ſo Liv<g ref="char:EOLhyphen"/>ing and Dying, expect to have his Tongue tun'd in an Inſtant, to the different Notes of Hymns, and Hal<g ref="char:EOLhyphen"/>lelujahs, and Hoſanna's, to him that ſits on the Throne, and the Lamb for ever and ever?</p>
+               <p>Can the <hi>Impure Adulterer</hi> (till the polluted Temple of the Holy Ghoſt be cleanſed by the bitter Waters of Repentance) expect to be put away to the <hi>Chaſt</hi> and Holy <hi>Virgin-Mother,</hi> and to the <hi>Chaſt</hi> Souls of all Ages? Or is it likely he ſhould otherwiſe be qualify'd, to paſs away with them, a Lovely Immortality?</p>
+               <pb n="60" facs="tcp:174216:37"/>
+               <p> Can the <hi>
+                     <g ref="char:V">Ʋ</g>ncharitable,</hi> the Bitter, and the Implacable Perſon, ſo con<g ref="char:EOLhyphen"/>tinuing, expect to be put away to, and be qualified to ſpend a Rap<g ref="char:EOLhyphen"/>turous Eternity, with <hi>Charitable</hi> St. <hi>Stephen?</hi>
+               </p>
+               <p>Can the <hi>Intemperate Perſon,</hi> The Drunkard and the Glutton, expect to be lodg'd for ever with the <hi>Ab<g ref="char:EOLhyphen"/>ſtemious</hi> and the <hi>Temperate?</hi> and be like to be fitted, to paſs away an Immortality with them?</p>
+               <p>Can the <hi>
+                     <g ref="char:V">Ʋ</g>nmortified,</hi> the Conten<g ref="char:EOLhyphen"/>tious and the Unpeaceful, expect to be put away to the Prince of Peace; to the <hi>Meek Moſes</hi> and the <hi>Meeker Jeſus?</hi>
+               </p>
+               <p>Can the Wretched <hi>Non-Commu<g ref="char:EOLhyphen"/>nicant</hi> expect the ſame Lot and Por<g ref="char:EOLhyphen"/>tion, with the Frequent and the <hi>Devout Communicant;</hi> and be like to be qualified to paſs away a Rap<g ref="char:EOLhyphen"/>turous Eternity with them?</p>
+               <p>Can they who will have ſuch an <hi>eaſie</hi> Religion as ſhall <hi>Coſt them No<g ref="char:EOLhyphen"/>thing,</hi> expect to be put away to thoſe Devout Worthies, who for the
+<pb n="61" facs="tcp:174216:37"/>Divine Obedience and Love, were content to be <hi>Deſtitute, Afflicted, Tormented;</hi> not accepting a Deli<g ref="char:EOLhyphen"/>verance, that they might obtain a better Reſurrection?</p>
+               <p>Can the <hi>Impenitent</hi> Perſon, that takes No Care to ſhew the Truth of his Repentance, by his Refor<g ref="char:EOLhyphen"/>mation, expect to be admitted to <hi>Penitent</hi> St. <hi>Peter;</hi> and with him, to paſs away a pleaſurable Eternity?</p>
+               <p>Say, Chriſtian, are theſe Things probable, or likely, even to Com<g ref="char:EOLhyphen"/>mon Reaſon; Though there were no ſuch Thing, as Scripture, and Divine Revelation?</p>
+               <p>No, ſurely.</p>
+               <p>Come then, take this <hi>Second Infe<g ref="char:EOLhyphen"/>rence</hi> home to thy Self; Enter into a cloſe and ſtrict Meditation; Shew it to thy <hi>Peculiar Sin,</hi> any Iniquity continued in; and then See <hi>how it Appears</hi> to Thee.</p>
+               <p>I'll mention a Few: And among them, do you bring in your own; and ſee How that appears to You.</p>
+               <pb n="62" facs="tcp:174216:38"/>
+               <p> You, my Horrid Oaths and Im<g ref="char:EOLhyphen"/>precations, Why ſhall I venture the Wrath of my God, and the Loſs of an Immortality for you? Why, the <hi>Sin against the Holy Ghost</hi> could have done but <hi>This:</hi> Why then ſhall I continue in you; which if I Impe<g ref="char:EOLhyphen"/>nitently do, you will do as much as <hi>That?</hi>
+               </p>
+               <p>You, my Injuſtices; by which I make no Scruple to defraud my Bro<g ref="char:EOLhyphen"/>ther; and when I know that I have done ſo, Refuſe to make Reſtitu<g ref="char:EOLhyphen"/>tion: You my Luſts and Impu<g ref="char:EOLhyphen"/>rities, by which I have defiled the Temple of the Holy Ghoſt: You, my Uncharitableneſſes, my Bitterneſs and Implacableneſs of Spirit: You, my any other known Sin, whether of O<g ref="char:EOLhyphen"/>miſſion or Commiſſion; <hi>Why ſhall I venture the Wrath of my God, and the loſs of an Immortality for you? Why, the Sin againſt the Holy Ghoſt could have done but This: Why then ſhall I continue in you; which if I Im<g ref="char:EOLhyphen"/>penitently do, you will do as much as That.</hi>
+               </p>
+               <pb n="63" facs="tcp:174216:38"/>
+               <p> See now in this Meditation how thy Peculiar, thy darling Sin and Vice, appears to thee. If it appear Amiable, and Lovely, and Safe, and Deſirable, you may then e'en return to it again, upon the next Tem<g ref="char:EOLhyphen"/>ptation.</p>
+               <p>But if it appear <hi>evil and bitter,</hi> Infinitely <hi>
+                     <g ref="char:V">Ʋ</g>nſafe</hi> and <hi>Dangerous,</hi> get Inſtantly out of it; and That what<g ref="char:EOLhyphen"/>ever <hi>Self-denial,</hi> or <hi>Mortification,</hi> or <hi>Loſs,</hi> or <hi>Diſadvantage,</hi> or <hi>Shame,</hi> or <hi>Reproach,</hi> or <hi>Care,</hi> or <hi>Diligence,</hi> or <hi>Watchfulneſs</hi> it coſt thee.</p>
+               <p>For what Good can it do Thee, if thou ſhouldeſt be conſign'd to the Sorrows of Eternity, to remem<g ref="char:EOLhyphen"/>ber that thou didſt not Periſh by the <hi>Blaſphemy against the Holy Ghoſt,</hi> but by ſome other Sin, from which Thou wouldeſt not be perſwaded to be divorc'd.</p>
+               <p>Come then (Chriſtian) Caſt off the darling Sin as thou wouldſt a Coal of Fire out of thy Boſom: Let not a Sting ſo Evil and Bitter, ſo Un<g ref="char:EOLhyphen"/>ſafe and Dangerous; ſo Treacherous
+<pb n="64" facs="tcp:174216:39"/>and Betraying, be imprudently en<g ref="char:EOLhyphen"/>tertain'd and cheriſh'd a Day lon<g ref="char:EOLhyphen"/>ger. And ſeeing the Night comes in which none can work, and comes apace, comes quickly; Remember This: There can be <hi>no ſuch Wiſ<g ref="char:EOLhyphen"/>dom</hi> as to make a few Minutes or Days more, miniſter to the Safeties of a Bleſt Eternity; And there can be <hi>no ſuch Folly</hi> in the World as the venturing ſo much as Eternity, for ſo little as the ſmall Pleaſures or Advan<g ref="char:EOLhyphen"/>tages of Sin for a Seaſon.</p>
+            </div>
+            <div n="8" type="section">
+               <pb n="65" facs="tcp:174216:39"/>
+               <head>
+                  <hi>SECT. VIII.</hi> The third Practical Inference from the Conſideration of the Nature and Meaning of the Sin againſt the Holy Ghoſt. It Brings Mat<g ref="char:EOLhyphen"/>ter of Comfort to all Sincerely Humble, Holy, Devout and Obe<g ref="char:EOLhyphen"/>dient Perſons; to Encourage them to Perſevere and go on, a Little longer, with a holy Joy, and with a Religious Peace.</head>
+               <p>DEar Chriſtian, The <hi>Blaſphemy againſt the Holy Ghost,</hi> was a Sin which you have ſometime been afraid you had committed: You knew not what it was; and therefore could not tell, but that you might ſometime or other have been guilty of it.</p>
+               <p>And This (perhaps) has fill'd you full of Doubts, and Fears, and Trem<g ref="char:EOLhyphen"/>blings;
+<pb n="66" facs="tcp:174216:40"/>and has check'd and hindred you from going on chearfully in your Chriſtian Courſe: or at leaſt has made you go on heavily in it, without <hi>Comfort,</hi> and <hi>Holy and Vigorous Re<g ref="char:EOLhyphen"/>ſolutions.</hi>
+               </p>
+               <p>But now let the Sincerely Obedi<g ref="char:EOLhyphen"/>ent Perſon, and the devout Lover of Jeſus, be Comforted: For ſeeing there is ſo very great Likes, nay, ſo great a Certainty that he has not been Guilty of this Sin; what infinite In<g ref="char:EOLhyphen"/>couragement has he to go on <hi>Chear<g ref="char:EOLhyphen"/>fully</hi> in the <hi>Faith,</hi> and <hi>Love,</hi> and <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> of his Maſter? And in the ſin<g ref="char:EOLhyphen"/>cere Performance of all Known Du<g ref="char:EOLhyphen"/>ties to God and Man: To <hi>be ſtedfaſt and unmoveable, always abounding in the Work of the Lord, for as much as he knows, that his Labour is not in vain in the Lord,</hi> 1 Cor. 13.</p>
+               <p>Had your labour been like to have been in vain; (by your having com<g ref="char:EOLhyphen"/>mitted <hi>This Sin</hi>) you would have had but little encouragement, to have endeavoured to lay up any Treaſure in Heaven.</p>
+               <pb n="67" facs="tcp:174216:40"/>
+               <p> Had it been like to have been in vain, you could have had no Encou<g ref="char:EOLhyphen"/>ragement to take any Care of your Soul for the ſhort Remaining part of your Life. With how little Com<g ref="char:EOLhyphen"/>fort could you have gone on, in any of your Holy Purpoſes of an <hi>Early, Chearful, Sincere, <g ref="char:V">Ʋ</g>niverſal</hi> and <hi>Conſtant</hi> Obedience to your Sa<g ref="char:EOLhyphen"/>viour; in bearing his Eaſie Yoke and Light Burden, till your Day were ended, and your Race over?</p>
+               <p>Had it been like to have been in vain; with how little Conſola<g ref="char:EOLhyphen"/>tion and Encouragement could you have been Content to bear any Thing, Do any Thing, Suffer any Thing, Lay up any Thing, for a joyful Reſurrection; for your ſafe Landing to a Lovely Eternity, and for the Divine Favour; which had been unattainable?</p>
+               <p>For, who would take any Pains or Cares; Uſe any Diligence, or Watchfulneſs; Deny himſelf any Thing; Bear any part of the Croſs; Reſiſt any Temptations; Bear any
+<pb n="68" facs="tcp:174216:41"/>Reproaches; Loſe any Advantages; where all were like to be unſucceſs<g ref="char:EOLhyphen"/>ful, and to no Purpoſe?</p>
+               <p>Perhaps Chriſtian, as I ſaid, This has been your Caſe: You have had theſe <hi>Doubts</hi> and <hi>Fears,</hi> becauſe you were not ſure but you might have committed <hi>this Blaſphemy:</hi> And tho' you have always Feared to offend your great Maſter; Deſired to pleaſe him; Kept cloſe to him in the Faith and Love and Obedience of the Goſpel; (and where you have failed of Perfection, and have faln a Little, have quickly return'd to him by Repentance and Reformation, and a new and better Obedience;) yet all this while, perhaps, you have been afraid that all this <hi>has been in vain;</hi> Fearing leſt you might have been Guilty of the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin.</hi>
+               </p>
+               <p>But now conſider (dear Chriſtian) once more; can you chooſe but go on with Comfort and Encourage<g ref="char:EOLhyphen"/>ment, in all that's <hi>Holy, Just</hi> and <hi>Good?</hi> Seeing your Labour is ſo far
+<pb n="69" facs="tcp:174216:41"/>from being like to be in vain; and this has been none of your Sin. Can you now find it in your Heart to lay down any part of the eaſie Yoke and Light Burden of your Deareſt Lord; who ſaid, <hi>If ye Love me, Bear it?</hi>
+               </p>
+               <p>Is it not an infinite Encourage<g ref="char:EOLhyphen"/>ment, to your Alms and Devotions; your Self-denial and Mortification; your frequent Communicatings, and Penitential Offices; All that you <hi>can do,</hi> and all that you <hi>can ſuffer</hi> for the Faith and Love and Obedience of the Holy Jeſus; that you are ſa<g ref="char:EOLhyphen"/>tisfied, that if you go on, and hold out but a Little longer, none of them will be in vain?</p>
+               <p>Oh! who would give out, and Fall back from any known Duty, or Shrink from the Yoke of Jeſus, whatever it coſt him to bear it a Little longer, when he has ſuch an Aſſurance of his Freedom from the Guilt of this <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Sin;</hi> and that if he do but perſevere a little, all will be well with him to Eternity?</p>
+               <pb n="70" facs="tcp:174216:42"/>
+               <p> And, Say Chriſtian; (whatever others intend to do) are not you he, that are Infinite willing all Things ſhould be well with you to Eter<g ref="char:EOLhyphen"/>nity?</p>
+               <p>Are not you he, (let others do what they pleaſe) that are infinitely willing to fill one of the vacant Seats of the faln Angels; And, when the Crowns and Palms of Eternity come to be diſpoſed of, to have one of them beſtown upon <hi>you,</hi> even <hi>you in Particular,</hi> for all Futurity.</p>
+               <p>Are not you he, That are infi<g ref="char:EOLhyphen"/>nitely Willing to be in a Little Time plac'd above the Reach of Hopes and Fears; Sin and Miſery; Enemies and Temptations; Doubts and Scru<g ref="char:EOLhyphen"/>ples; Poverty and Want; Sickneſs and Death; and every Thing that we call uneaſie here? And in that State to paſs away a Pleaſurable Eternity, a Rapturous Eternity, with the Beatify'd Spirits of an Upper, New, a Better, and a Lovely World? Yes, you are; I Know you are.</p>
+               <pb n="71" facs="tcp:174216:42"/>
+               <p> Well then, Seeing 'tis ſo likely that your Short Labour will not be unſucceſsful and in vain; and that you have not derived upon your ſelf the <hi>
+                     <g ref="char:V">Ʋ</g>npardonable Blaſphemy;</hi> what ſhould now hinder you from Perſevering chearfully, and reſolvedly a Little longer, till all be finiſh'd, and over, and ended, in a Holy Life, and a Happy Death?</p>
+               <p>The <hi>Juſt Man</hi> will not find it to have been in vain, that he has been ſo, when he finds himſelf ad<g ref="char:EOLhyphen"/>mitted to Juſt <hi>Zachaeus,</hi> and to the Spirits of Juſt Men made Perfect; and ſhall be conſign'd to paſs away with them, a Lovely Immortality.</p>
+               <p>The <hi>Charitable</hi> and the Forgiving Perſon will not find it to have been in vain, that he has been ſo, for one ſhort Life, when he finds himſelf admitted to <hi>charitable</hi> St. <hi>Stephen,</hi> and ſhall be ſentenced to paſs away with him a joyous Perpetuity.</p>
+               <p>The <hi>Meek</hi> and <hi>Peaceful</hi> Perſon will not find it to have been in vain, that he has been ſo, for one ſhort Life,
+<pb n="72" facs="tcp:174216:43"/>when he finds himſelf admitted to the Meek <hi>Moſes,</hi> and the Meeker Jeſus, the <hi>Prince of Peace;</hi> and ſhall be ſe<g ref="char:EOLhyphen"/>cur'd to paſs away with them, a Pleaſurable Eternity.</p>
+               <p>The Pure and the <hi>Chaſt</hi> Soul, will not find it to have been in vain, that he has been ſo, for the ſhort Hour of this Life, when he finds himſelf admitted to <hi>Chaſt</hi> Joſeph, to the <hi>Chaſt and Holy Virgin Mother,</hi> and the Prince of all chaſt Souls, the holy Jeſus; and ſhall be conſign'd to paſs away with them, a rapturous Immortality.</p>
+               <p>The Devout and Faithful <hi>Penitent</hi> will not find it to have been in vain that he has been ſuch, for one ſhort Life here, when he finds himſelf Ad<g ref="char:EOLhyphen"/>mitted to <hi>Penitent</hi> St. <hi>Peter,</hi> and ſhall be Sentenc'd to be with him, for ever; And with him to Sing Hallelujahs to him that Sits on the Throne, and the Lamb, for ever and ever.</p>
+            </div>
+            <div n="9" type="section">
+               <pb n="73" facs="tcp:174216:43"/>
+               <head>
+                  <hi>SECT. IX. The CLOSE.</hi> Two Things neceſſary to the Hol<g ref="char:EOLhyphen"/>ding out in a Chriſtian Courſe; which you (Chriſtian Reader) that are now aſſured you have not committed the <g ref="char:V">Ʋ</g>npardona<g ref="char:EOLhyphen"/>ble Sin, ſhould by all Means Preſently reſolve upon: which if you did, you would be very Safe and Happy.</head>
+               <p>AND now, why will not you, Chriſtian, above all Things, labour to be one of theſe Happy Perſons? Eſpecially ſeeing there is ſo great a Probability, that your Labour will not be in vain.</p>
+               <pb n="74" facs="tcp:174216:44"/>
+               <p> Come then (Dear Chriſtian) when<g ref="char:EOLhyphen"/>ever a Sin, or a Strong Temptation ſhall preſent it ſelf to you, for the Future, (ſeeing you have not yet been guilty of the <hi>Blaſphemy against the Holy Ghost:</hi>) Or whenever you ſhall find your ſelf tempted, and willing to omit a neceſſary Duty, Do theſe two Things.</p>
+               <list>
+                  <item>1. <hi>Whenever a Sin ſhall preſent it ſelf; Reſolve never to venture ſo much for ſo Little: Seeing your Condition is yet ſo Hopeful.</hi>
+                  </item>
+                  <item>2. <hi>Whenever you are tempted to omit a Duty, becauſe 'twill coſt you ſomething; Reſolve to ven<g ref="char:EOLhyphen"/>ture ſomething here, that you may win ſomething in the other World.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Bleſſed Jeſu! Fix theſe two Things upon the Hearts, the Affections, and the Reſolutions, of every one that ſays he Loves Thee.</hi>
+               </p>
+               <pb n="75" facs="tcp:174216:44"/>
+               <p> 
+                  <hi>Firſt,</hi> Whenever a Sin ſhall pre<g ref="char:EOLhyphen"/>ſent it ſelf, <hi>Reſolve never to venture ſo much for ſo Little.</hi>
+               </p>
+               <p>Never to venture the Loſs of the Favour of God; The ſweet Illapſes of his Love; The Religious Joys, and the Unknown Peace of a Good Conſcience; The Sweets and Delica<g ref="char:EOLhyphen"/>cies of a Devout Life; All your Future Hopes and Expectations be<g ref="char:EOLhyphen"/>yond the Grave; All theſe Things which ſo many Wiſe Men have liv'd and dy'd for; never to venture all This for the vain Delights, or the vain Advantages of Sin, for a Seaſon.</p>
+               <p>But beat off the Temptation by Conſidering that you venture <hi>all This, and more</hi> than This, by a Compliance. And if you would be but content to hold out againſt it, a little; 'tis not long till your Day would be over; and your Combat would be ended, and you would be put away to the Joys of Peace and Victory.</p>
+               <p>That's the Firſt of the two Things, which I would leave upon the Affe<g ref="char:EOLhyphen"/>ctions of him that ſays he Loves;
+<pb n="76" facs="tcp:174216:45"/>till he expires into the Element of Love; and be ordered there to Live and Love and Reign for ever.</p>
+               <p>
+                  <hi>Secondly,</hi> The other Thing, that would now incline and help you to hold out a Little longer, in a Life of Faith, and Love, and Sanctity, is This: <hi>Whenever you are Tempted to Omit a Duty, becauſe 'twill coſt you ſomething; Then reſolve to venture ſomething here, that you may win ſomething in the other World.</hi>
+               </p>
+               <p>Come (my Soul) ſay with a gene<g ref="char:EOLhyphen"/>rous and a Chriſtian Reſolution, and with an Heroick Bravery of Mind, Let others do what they Pleaſe, I am reſolv'd to venture ſome <hi>Pains,</hi> and <hi>Cares,</hi> and <hi>Difficulties</hi> and <hi>Self-denials;</hi> And ſome <hi>Watchfulneſs</hi> and <hi>Diligence,</hi> ſome <hi>Labours</hi> and <hi>Mortifications,</hi> ſome <hi>Scorns</hi> and <hi>Reproaches,</hi> ſome <hi>Loſſes</hi> and <hi>Diſadvantages,</hi> (now, ſeeing my Con<g ref="char:EOLhyphen"/>dition is ſo Hopeful) for theſe Hopes and Expectations of Futurity, which ſo many Wiſe, and Good Men have liv'd, and dy'd for.</p>
+               <pb n="77" facs="tcp:174216:45"/>
+               <p> Tell him whom thy Soul Loves, That you think it all Reaſon in the World, That That which coſt him an Agony, and a Bloody Sweat, Wounds and Stripes, and a Crucifixion and Death it ſelf; ſhould coſt you one ſhort Life of Probity and Sanctity; Purity and Devotion; Faith and Re<g ref="char:EOLhyphen"/>pentance; Zeal and Love; and a great Obedience.</p>
+               <p>Look up to him, in a Holy Medi<g ref="char:EOLhyphen"/>tation, and tell him with a Humble Love, That you think, the Rewards of Heaven are ſo Great and Glorious; and his Yoke ſo Eaſie, His Burden ſo Light, and withall, will be ſo ſhort too, that you think it a great Shame, to expect ſo great Glories, at a lower and a cheaper Rate than a holy Life.</p>
+               <p>Tell him Affectionately and Hum<g ref="char:EOLhyphen"/>bly too, That if a Life Eternal be not worth this, 'tis worth Nothing.</p>
+            </div>
+            <div n="10" type="section">
+               <pb n="78" facs="tcp:174216:46"/>
+               <head>
+                  <hi>SECT. X.</hi> Three Aſpirations; Or Emotions of the Soul, that being joyfully Apprehenſive it has not com<g ref="char:EOLhyphen"/>mitted this Sin, is deſirous henceforward to Pleaſe God in a Life of Faithful Obedience and Penitential Love.</head>
+               <div n="1" type="aspiration">
+                  <head>ASPIRATION I.</head>
+                  <opener>
+                     <salute>O Thou, whom my Soul Loves!</salute>
+                  </opener>
+                  <p>WHat ſhould I have done, if thy Mercies had not been Infinite? And what ſhould I do, if my Saviour's Merits were not Infi<g ref="char:EOLhyphen"/>nite? What ſhould I do, if thou didſt not pity and Love poor Peni<g ref="char:EOLhyphen"/>tents; And if you were not Gracious and Merciful, ſlow to Anger, and of Great Kindneſs.</p>
+                  <pb n="79" facs="tcp:174216:46"/>
+                  <p> O my Love, What ſhould I do, if my Mediator, my Advocate, my Interceſſor, were not, (in a merci<g ref="char:EOLhyphen"/>ful Senſe) thy <hi>Self</hi> and <hi>Me?</hi> Par<g ref="char:EOLhyphen"/>taker, I mean, both of Thy Nature, and my Nature; <hi>God and Man?</hi> What ſhould I have done, had He not been Low as I; Poor as I; Weak as I in all Things, (Sin excepted) and tempted as I; and yet equal all this while to thee, in his Divinity and Majeſty, and Power, and Glory, and Holineſs.</p>
+                  <p>Dread (yet Dear) Father: Thou art <hi>God,</hi> and I am <hi>Man:</hi> For his ſake who is <hi>God</hi> and <hi>Man</hi> united in one Perſon, Let not me, a <hi>Man,</hi> be ſeparated from Thee, my God, by any Thing I have <hi>Thought,</hi> or <hi>Spoken,</hi> or <hi>Done;</hi> or by any Thing which I ſhall ever <hi>Speak,</hi> or <hi>Think,</hi> or <hi>Do,</hi> in my whole Paſſage through the World.</p>
+                  <p>I am griev'd that I have ever done any Thing to unfit me for thy Love: I am Griev'd that I have ever done any Thing, to diſpleaſe a
+<pb n="80" facs="tcp:174216:47"/>
+                     <hi>Tender Father:</hi> Griev'd I am, that I have done any one Thing contrary to his Commands, who ſaid, <hi>If ye Love me Keep them:</hi> And I am grie<g ref="char:EOLhyphen"/>ved that I have grieved the Holy Spirit of God, by whom I was ſealed to the Day of Redemption: And as I am griev'd that I have ever Un<g ref="char:EOLhyphen"/>kindly and Ungratefully affronted him whom my Soul Loves: So, I grieve, becauſe I Love.</p>
+                  <p>I could Wiſh to Die before I ever Knowingly, and Willingly, and Deli<g ref="char:EOLhyphen"/>berately, with open Eyes and a full Conſent of my Will, do ſo any More, till I come up to thee. Particularly,<note place="margin">Here you may men<g ref="char:EOLhyphen"/>tion any Sin to which you are Tempted.</note>as to what I am moſt afraid of [<hi>The Sin of</hi> —] Let Nothing, (O my Love) Let Nothing that is <hi>Paſt;</hi> Let Nothing that <hi>ſhall ever</hi> befall me in it, Divorce and Separate me from his Favour, and his Love, whom my Soul <hi>Loves:</hi> and to whom, I yet Hope to Sing Hymns and Hallelujahs, among them that <hi>Love,</hi> in the Regions of <hi>Holi<g ref="char:EOLhyphen"/>neſs,</hi>
+                     <pb n="81" facs="tcp:174216:47"/>and <hi>Peace,</hi> and <hi>Love</hi> for all Ages. Dread Majeſty and Deareſt Lord; I bow the Head, and beg I may be fitted to be called by thee,</p>
+                  <closer>
+                     <signed>Thy Affectionate Glorifier, Lover and Obeyer.</signed>
+                  </closer>
+               </div>
+               <div n="2" type="aspiration">
+                  <head>ASPIRATION II.</head>
+                  <opener>
+                     <salute>O Thou whom my Soul Loves!</salute>
+                  </opener>
+                  <p>I Deſire Nothing in this World, with any great Paſſion, but to be Loved by him whom my Soul Loves: But if my Sins and Diſobe<g ref="char:EOLhyphen"/>diences have leſſened, or abated thy Love to me; O Give me above all Things, a Repentance, True enough, and Acceptable enough to reſtore me intirely to thy Love; and a Refor<g ref="char:EOLhyphen"/>mation great enough, ſincere enough, and acceptable enough to keep me in that Love, till I change Worlds.</p>
+                  <pb n="82" facs="tcp:174216:48"/>
+                  <p> O my Love, make me Holy enough, Juſt enough, Chaſt enough, Tem<g ref="char:EOLhyphen"/>perate enough, Charitable enough, Devout enough, Penitent enough, Univerſally Obedient enough, to fit me to be Lov'd by thee.</p>
+                  <p>Make me but to <hi>Love Thee</hi> enough, to fit me to be <hi>Lov'd by thee,</hi> and I ask no more.</p>
+                  <p>Should'ſt thou tender me an earthly Crown, moſt willingly would I refuſe it, in exchange for This favour, <hi>viz.</hi> That thou wouldeſt but make me to Love Thee enough to be fit to be Lov'd by Thee.</p>
+                  <p>O Thou whom my Soul Loves; I would refuſe Ten thouſand Kingdoms and Ten thouſand Worlds, were they tendred to me, to take my Choice; whether to have theſe, or to have the Favour to be made fit to be lov'd by Thee; To Love Thee enough to be fitted to be Loved by Thee, eternally.</p>
+                  <p>Lord, I Fear, and Tremble, and Sorrow; My Heart is broken enough even to wiſh my Self intirely annihi<g ref="char:EOLhyphen"/>lated, when I think that ſome ſad
+<pb n="83" facs="tcp:174216:48"/>Receſſions from my Love and my Obedience, may have cauſed Great Di<g ref="char:EOLhyphen"/>minutions of thy Love to me.</p>
+                  <p>But becauſe a Reſtitution to thy Favour is not Impoſſible; and I find ſome Inſtances of the Conti<g ref="char:EOLhyphen"/>nuance of thy Love, in great Mea<g ref="char:EOLhyphen"/>ſures, to me; O be pleaſed to fit me to be reſtored to it, as intirely as ever: And not only ſo, but (O my Love) fit me by Repentance, Love and Obedience, or by ſome<g ref="char:EOLhyphen"/>thing or other of <hi>doing</hi> or <hi>ſuffering</hi> for thee, to be lov'd by Thee, be<g ref="char:EOLhyphen"/>yond what I have ever yet been; And keep me, O Keep me in it, till I come up to thy Seraphick Lovers.</p>
+                  <p>O my Lord, ſome of them ſinn'd againſt Thee, and fell ſadly too; but they Lov'd much, and they had much forgiven: And I alſo would Love much, becauſe I have much to be forgiven.</p>
+                  <p>O my Love, thou knoweſt how much I Love, and how much I Grieve, becauſe I Love no more.
+<pb n="84" facs="tcp:174216:49"/>Oh! let me but <hi>Grieve enough,</hi> or <hi>Love enough</hi> to be forgiven, and to be placed intirely in thy Love, and I would part with as many King<g ref="char:EOLhyphen"/>doms, Lives, and Worlds, as Arith<g ref="char:EOLhyphen"/>metick could Number.</p>
+                  <p>Oh Grant me to be call'd in Hea<g ref="char:EOLhyphen"/>ven (Pardon this Ambition, deareſt Lord) and to be made by Thee fit to be call'd There,</p>
+                  <closer>
+                     <salute>Dread Majeſty,</salute> 
+                     <signed>Thy Faithful Lover, Glorifier and Obeyer.</signed>
+                  </closer>
+               </div>
+               <div n="3" type="aspiration">
+                  <head>ASPIRATION III.</head>
+                  <opener>
+                     <salute>O Thou whom my Soul Loves!</salute>
+                  </opener>
+                  <p>HOw eaſie is it for Thee, to Pity where the Temptation is very Violent and Surprizing, thy Servant weak, and yet ſorrowful and grieved for having faln. And then, Lord, how eaſie is it for Thee to Love where thou Pardoneſt; and how
+<pb n="85" facs="tcp:174216:49"/>eaſie is it for Thee to give the full Meaſure of Grace where thou Loveſt; and How eaſie is it for Thee to Glo<g ref="char:EOLhyphen"/>rifie, where thou giveſt Grace.</p>
+                  <p>Lord, I have faln by a Violent Temptation, and am infinitely griev'd for having faln: O pity, I beſeech Thee, and Pardon; and give More Grace to thy griev'd Lover, <hi>N. N.</hi> Pity me, that am troubled, that I have done, or ſpoken, or Thought any Thing Contrary to thy Love, and thy Obedience. If Omnipotence can pity <hi>Loving Duſt;</hi> If the God of Love can pity a Worm that Loves, and that Grieves for not Loving more; Grieves for not having Obey'd more, and Grieves for not Grieving more; then I am ſure <hi>my Love</hi> can pity me.</p>
+                  <p>O my Love, let the ſame Love par<g ref="char:EOLhyphen"/>don me, that pities me; And when I am Pardon'd, Oh! Let me have Grace and Strength to ſtand, moſt Acceptably: When I have Grace to ſtand, I ſhall be Loved; and when I am Loved, I am ſure I ſhall be Glorified.</p>
+                  <pb n="86" facs="tcp:174216:50"/>
+                  <p> But, O Pardon every one of my Unfitneſſes for thy Pity and thy Par<g ref="char:EOLhyphen"/>don; Every one of my Unfitneſſes for thy Grace, thy Love, thy Glory; [<hi>Eſpecially,</hi>
+                     <note n="*" place="margin">Here you may mention any Par<g ref="char:EOLhyphen"/>ticular.</note>
+                     <hi>that of</hi>—] and then for Love's-Sake, let me be call'd in Heaven.</p>
+                  <closer>
+                     <salute>Dread Majeſty of Heaven and Earth,</salute> 
+                     <signed> Thy faithful, affectionate, devout, Glorifier, Lover and Obeyer.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </p>
+                  </postscript>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:174216:50"/>
+            <head>Books Printed for <hi>HENRY BONWICKE,</hi> at the <hi>Red-Lion</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>THE General Hiſtory of the Reforma<g ref="char:EOLhyphen"/>tion, of the Church: Written in Latin by <hi>John Sleidan:</hi> Faithfully Engliſhed. To which is added, a Continuation to the End of the Council of <hi>Trent.</hi> By <hi>E. Bohun,</hi> 
+               <abbr>Eſq</abbr> in <hi>Folio.</hi>
+            </p>
+            <p>Two Uſeful Caſes Reſolved: 1. Whe<g ref="char:EOLhyphen"/>ther a State of Salvation be attainable. 2. What is the Rule by which this cer<g ref="char:EOLhyphen"/>tainty is to be attained. In 4<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Pia Deſideria:</hi> Or, Divine Addreſſes: In Three Books. 1. Sighs of the Penitent Soul. 2. Deſires of the Religious Soul. 3. Ecſtacies of the Enamoured Soul. Illu<g ref="char:EOLhyphen"/>ſtrated with Forty Seven Copper-Plates. Written in Latin: Engliſhed by <hi>Edm. Ar<g ref="char:EOLhyphen"/>waker.</hi> M. A. 8<hi rend="sup">o</hi>.</p>
+            <p>A New Deſcription of <hi>Paris:</hi> Containing a Particular Account of all the Churches, Palaces, Monaſteries, Colleges, Hoſpitals, Libraries, Cabinets of Rarities, Academies of the Virtuoſi, Paintings, Medals, Statues and other Sculptures, Monuments, and Pub<g ref="char:EOLhyphen"/>lick Inſcriptions; With all other Remar<g ref="char:EOLhyphen"/>kable
+<pb facs="tcp:174216:51"/>Matters in that Great and Famous City. Tranſlated out of French. To which is added, a Map of <hi>Paris.</hi>
+            </p>
+            <p>The Art of Catechiſing; Or, The Com<g ref="char:EOLhyphen"/>pleat Catechiſt; In four Parts. 1. The Church-Catechiſm Reſolved into Eaſie Queſtions. 2. An Expoſition of it, in a Con<g ref="char:EOLhyphen"/>tinued, Full, and Plain Diſcourſe. 3. The Church-Catechiſm Reſolved into Scripture Proofs. 4. The Whole Duty of Man, Reduced into Queſtions. Fitted for the Meaneſt Capacities, The Weakeſt Memo<g ref="char:EOLhyphen"/>ries, the Plaineſt Teachers, and the moſt Un-inſtructed Learners.</p>
+            <p>A Diſcourſe Proving from Scripture and Reaſon, That the Life of Man is not li<g ref="char:EOLhyphen"/>mited, by any Abſolute Decree of God. By the Author of the Duty of Man, <hi>&amp;c.</hi>
+            </p>
+            <p>Letters of Religion and Virtue, to ſeve<g ref="char:EOLhyphen"/>ral Gentlemen and Ladies. To excite Piety and Devotion. With ſome Short Reflections on Divers Subjects.</p>
+            <p>Country-Converſations: Being an Ac<g ref="char:EOLhyphen"/>count of ſome Diſcourſes that Happen'd in a Viſit to the Country, Laſt Summer, on divers Subjects; Chiefly, of the Modern Comedies, of Drinking, of Tranſlated Verſe, of Painting and Painters, of Poets and Poetry.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
